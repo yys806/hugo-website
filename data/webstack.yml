@@ -158,7 +158,7 @@
           url: https://gemini.google.com/app
           description: Google旗下用户级AI
         - title: Kimi
-          logo: Kimi.ico
+          logo: kimi.ico
           url: https://www.kimi.com/
           description: 国内AI平台（PPT）
         - title: MiniMax
@@ -249,7 +249,7 @@
           url: https://www.autodl.com/
           description: AutoDL算力云 - 租算力
         - title: Z-library
-          logo: Zlibrary.svg
+          logo: zl.png
           url: https://zh.101-e.ru/
           description: 全球最大电子书平台
         - title: 同济大学图书馆
@@ -395,7 +395,7 @@
     - term: 学习资源
       links:
         - title: Z-library
-          logo: Zlibrary.svg
+          logo: zlibrary.svg
           url: https://zh.101-e.ru/
           description: 全球最大电子书平台
         - title: 初高中资料
@@ -574,7 +574,7 @@
           url: https://usaddressgen.com/
           description: 美国地址生成器 - 生成美国地址信息
         - title: KMS
-          logo: kMS.jpg
+          logo: KMS.jpg
           url: https://kms.cx/
           description: KMS - 一键激活Windows和Office
         - title: 虚拟身份
