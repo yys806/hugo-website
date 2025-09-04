@@ -647,6 +647,10 @@
           logo: INS.png
           url: https://www.instagram.com/
           description: INS - Instagram平台。
+        - title: Telegram
+          logo: telegram.webp
+          url: https://web.telegram.org/
+          description: 各类资源平台。
         - title: wikipedia
           logo: wikipedia.png
           url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
