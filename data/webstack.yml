@@ -115,6 +115,10 @@
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/cdpa/doc
           description: 综合设计实践A课程资料
+        - title: 智能芯片与系统实践
+          logo: gitlab.webp
+          url: https://git.tongji.edu.cn/ichip/doc
+          description: 智能芯片与系统实践课程网站
 
     - term: 云南民族大学相关网站
       links:
@@ -426,6 +430,14 @@
           logo: VOA.svg
           url: https://learningenglish.voanews.com/
           description: 英语学习资源 - 美文
+        - title: 今天学点啥
+          logo: 秘塔.webp
+          url: https://metaso.cn/study
+          description: 一键生成学习资料
+        - title: 四六级官网
+          logo: CET.png
+          url: https://cet-bm.neea.edu.cn/
+          description: 四六级官网
 
     - term: 软件资源
       links:
@@ -605,6 +617,10 @@
           logo: 近义词.ico
           url: https://tool.mingdawoo.com/
           description: 查找近义词
+        - title: 今天学点啥
+          logo: 秘塔.webp
+          url: https://metaso.cn/study
+          description: 一键生成学习资料
 
     - term: 在线工具
       links:
