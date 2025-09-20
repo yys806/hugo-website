@@ -69,7 +69,7 @@
           description: 同济大学图书馆网站
         - title: 同济大学一网通办
           logo: 同济大学一网通办.png
-          url: https://all.tongji.edu.cn/new/index.html#/home
+          url: https://all.tongji.edu.cn
           description: 同济大学一网通办网站
         - title: 同济大学舟济社区
           logo: 同济大学舟济社区.png
@@ -119,6 +119,61 @@
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/ichip/doc
           description: 智能芯片与系统实践课程网站
+        - title: 同济算力平台
+          logo: 同济大学信息.png
+          url: http://10.60.102.53/
+          description: 同济算力平台 - 提供算力服务。
+        - title: verilog教程
+          logo: 菜鸟教程.png
+          url: https://www.runoob.com/w3cnote/verilog-tutorial.html
+          description: verilog教程 - 菜鸟教程。
+    
+    - term: 科研工具
+      links:
+        - title: AutoDL算力云
+          logo: autodl.png
+          url: https://www.autodl.com/
+          description: AutoDL算力云 - 租算力
+        - title: Z-library
+          logo: zl.png
+          url: https://zh.101-e.ru/
+          description: 全球最大电子书平台
+        - title: 同济大学图书馆
+          logo: 同济大学图书馆.jpg
+          url: https://www.lib.tongji.edu.cn/
+          description: 同济大学图书馆网站
+        - title: 玄策
+          logo: xuance.webp
+          url: https://xuance.readthedocs.io/zh/latest/documents/usage/installation.html
+          description: 玄策算法库
+        - title: 数模国赛官网
+          logo: 数模国赛.png
+          url: https://cumcm.cnki.net/cumcm/studentHome/studentHome
+          description: 数模国赛官网
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+        - title: 谷歌学术
+          logo: 谷歌学术.webp
+          url: https://scholar.google.com/?hl=zh-cn
+          description: 谷歌学术。
+
+
+    - term: AIC相关网站
+      links:
+        - title: AIC官网
+          logo: AIC.jpg
+          url: https://reg.aicomp.cn/app
+          description: AIC官网
+        - title: AIC排行榜
+          logo: AIC.jpg
+          url: https://reg.aicomp.cn/special/phb/list
+          description: AIC排行榜
 
     - term: 云南民族大学相关网站
       links:
@@ -256,38 +311,11 @@
           logo: openrouter.ico
           url: https://openrouter.ai/
           description: 大模型API聚合平台
+        - title: n8n
+          logo: n8n.jpg
+          url: https://shen806.app.n8n.cloud/home/workflows
+          description: 开源工作流。
       
-
-    - term: 科研工具
-      links:
-        - title: AutoDL算力云
-          logo: autodl.png
-          url: https://www.autodl.com/
-          description: AutoDL算力云 - 租算力
-        - title: Z-library
-          logo: zl.png
-          url: https://zh.101-e.ru/
-          description: 全球最大电子书平台
-        - title: 同济大学图书馆
-          logo: 同济大学图书馆.jpg
-          url: https://www.lib.tongji.edu.cn/
-          description: 同济大学图书馆网站
-        - title: 玄策
-          logo: xuance.webp
-          url: https://xuance.readthedocs.io/zh/latest/documents/usage/installation.html
-          description: 玄策算法库
-        - title: 数模国赛官网
-          logo: 数模国赛.png
-          url: https://cumcm.cnki.net/cumcm/studentHome/studentHome
-          description: 数模国赛官网
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
 
     - term: 研究生信息
       links:
@@ -384,6 +412,14 @@
 
     - term: 游戏资源
       links:
+        - title: 星露谷物语维基
+          logo: 星露谷.png
+          url: https://zh.stardewvalleywiki.com/
+          description: 星露谷物语维基 - 游戏资料网站。
+        - title: aivilization
+          logo: AI小镇.jpg
+          url: https://game.aivilization.cn/
+          description: aivilization - AI小镇。
         - title: Discord
           logo: discord.png
           url: https://discord.com/
@@ -438,6 +474,11 @@
           logo: CET.png
           url: https://cet-bm.neea.edu.cn/
           description: 四六级官网
+        - title: 菜鸟教程
+          logo: 菜鸟教程.png
+          url: https://www.runoob.com
+          description: 菜鸟教程 - 学习各种知识。
+        
 
     - term: 软件资源
       links:
