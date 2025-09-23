@@ -11,6 +11,10 @@
       logo: 个人介绍.png
       url: https://www.shen806.icu/
       description: 珅哥个人介绍网站
+    - title: Rainbow & shenshen
+      logo: love.jpg
+      url: http://101.35.157.169/
+      description: Rainbow & shenshen 情侣博客网站
     - title: 微信公众平台
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
@@ -45,6 +49,33 @@
       qrcode: 智语知库.jpg
       description: 微信公众号：智语知库
 
+- taxonomy: 服务器相关
+  icon: fas fa-tools fa-lg
+  links:
+    - title: 腾讯云
+      logo: 腾讯云.ico
+      url: https://console.cloud.tencent.com/
+      description: 腾讯云 - 云计算服务平台。(服务器，个人介绍网站，个人导航站均托管在此处)
+    - title: 个人宝塔面板
+      logo: 宝塔.jpg
+      url: https://101.35.157.169:40523/home
+      description: 个人宝塔面板 - 个人网站管理面板。
+    - title: Cloudflare
+      logo: cloudflare.ico
+      url: https://dash.cloudflare.com/
+      description: Cloudflare - 图床。
+    - title: 情侣博客后台
+      logo: love.jpg
+      url: http://101.35.157.169/admin
+      description: 情侣博客管理平台。
+    - title: AstrBot
+      logo: astrbot.webp
+      url: http://101.35.157.169:6185/
+      description: AstrBot - QQ机器人管理平台。
+    - title: NapCat
+      logo: napcat.png
+      url: http://101.35.157.169:6099/
+      description: NapCat - QQ机器人管理平台（副）。
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
