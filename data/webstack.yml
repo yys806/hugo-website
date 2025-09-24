@@ -23,10 +23,10 @@
       logo: 深度研究.ico
       url: https://deep-research-eight-lime.vercel.app/
       description: 深度研究网站
-    - title: Alist
-      logo: Alist.webp
-      url: https://ggjfnbzgocrm.us-east-1.clawcloudrun.com/
-      description: Alist 网站
+    - title: Cloudreve
+      logo: cloudreve.png
+      url: http://101.35.157.169:5212/
+      description: Cloudreve 网站 - 个人网盘。
     - title: TV
       logo: TV.webp
       url: https://tv-ten-chi.vercel.app/
@@ -64,10 +64,18 @@
       logo: cloudflare.ico
       url: https://dash.cloudflare.com/
       description: Cloudflare - 图床。
+    - title: Cloudreve
+      logo: cloudreve.png
+      url: http://101.35.157.169:5212/
+      description: Cloudreve 网站 - 个人网盘。
     - title: 情侣博客后台
       logo: love.jpg
       url: http://101.35.157.169/admin
       description: 情侣博客管理平台。
+    - title: 明月浩空网
+      logo: myhk.jpg
+      url: https://myhkw.cn/admin
+      description: 明月浩空网 - 网页音乐。
     - title: AstrBot
       logo: astrbot.webp
       url: http://101.35.157.169:6185/
