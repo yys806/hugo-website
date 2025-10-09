@@ -64,6 +64,10 @@
       logo: cloudflare.ico
       url: https://dash.cloudflare.com/
       description: Cloudflare - 图床。
+    - title: StarDot
+      logo: 图床.ico
+      url: https://dashboard.stardots.io/
+      description: StarDot - 表情包图床。
     - title: openlist
       logo: openlist.webp
       url: http://101.35.157.169:15244/
@@ -150,6 +154,10 @@
           logo: 网上共青团.png
           url: https://zhtj.youth.cn/zhtj/mine/
           description: 网上共青团
+        - title: 同济算力平台
+          logo: 同济大学信息.png
+          url: http://10.60.102.53/
+          description: 同济算力平台 - 提供算力服务。
         - title: 综合设计实践A
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/cdpa/doc
@@ -158,14 +166,14 @@
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/ichip/doc
           description: 智能芯片与系统实践课程网站
-        - title: 同济算力平台
-          logo: 同济大学信息.png
-          url: http://10.60.102.53/
-          description: 同济算力平台 - 提供算力服务。
         - title: verilog教程
           logo: 菜鸟教程.png
           url: https://www.runoob.com/w3cnote/verilog-tutorial.html
           description: verilog教程 - 菜鸟教程。
+        - title: 印象同济
+          logo: 同济大学1系统.jpg
+          url: https://photo.tongji.edu.cn/
+          description: 同济大学媒体资源下载网站
     
     - term: 科研工具
       links:
@@ -459,6 +467,10 @@
           logo: AI小镇.jpg
           url: https://game.aivilization.cn/
           description: aivilization - AI小镇。
+        - title: 地图精灵
+          logo: MAP.webp
+          url: https://mapgenie.io/
+          description: 地图精灵 - 在线游戏地图查询工具。
         - title: Discord
           logo: discord.png
           url: https://discord.com/
@@ -653,6 +665,10 @@
           logo: bilibili字幕下载.png
           url: https://www.kedou.life/caption/subtitle/bilibili
           description: bilibili字幕下载网站。
+        - title: NBmap
+          logo: NBmap.png
+          url: https://www.nbcharts.com/map/map.php
+          description: NBmap - 在线地图查询工具。
         - title: MinerU
           logo: MinerU.svg
           url: https://mineru.net/OpenSourceTools/Extractor
