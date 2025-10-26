@@ -158,6 +158,14 @@
           logo: 同济大学信息.png
           url: http://10.60.102.53/
           description: 同济算力平台 - 提供算力服务。
+        - title: 印象同济
+          logo: 同济大学1系统.jpg
+          url: https://photo.tongji.edu.cn/
+          description: 同济大学媒体资源下载网站
+        - title: 华为云
+          logo: 华为云.png
+          url: https://edu.hicomputing.huawei.com/profile
+          description: 信号处理与智能感知
         - title: 综合设计实践A
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/cdpa/doc
@@ -170,10 +178,7 @@
           logo: 菜鸟教程.png
           url: https://www.runoob.com/w3cnote/verilog-tutorial.html
           description: verilog教程 - 菜鸟教程。
-        - title: 印象同济
-          logo: 同济大学1系统.jpg
-          url: https://photo.tongji.edu.cn/
-          description: 同济大学媒体资源下载网站
+        
     
     - term: 科研工具
       links:
@@ -306,6 +311,10 @@
 
     - term: AI实用工具
       links:
+        - title: 结构化提示词
+          logo: langgpt.jpeg
+          url: https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe
+          description: LangGPT教程网站
         - title: deepwiki
           logo: deepwiki.ico
           url: https://deepwiki.com/
@@ -479,6 +488,10 @@
           logo: 3D电脑.webp
           url: https://buildcores.com/
           description: 3D电脑 - 3D建模与渲染工具。
+        - title: n网
+          logo: n网.png
+          url: https://www.nexusmods.com/
+          description: 游戏模组网站。
 
 
 - taxonomy: 素材资源
@@ -661,6 +674,10 @@
 
     - term: 实用小工具
       links:
+        - title: 老吴项目网
+          logo: 老吴.png
+          url: https://wf.xunbk.com/cyzx
+          description: 小软件合集网站。
         - title: bilibili字幕下载
           logo: bilibili字幕下载.png
           url: https://www.kedou.life/caption/subtitle/bilibili
