@@ -164,7 +164,7 @@
           description: 同济大学媒体资源下载网站
         - title: 华为云
           logo: 华为云.png
-          url: https://edu.hicomputing.huawei.com/profile
+          url: https://console.huaweicloud.com/modelarts/?locale=zh-cn&agencyId=9193b08c5af845478a2278e69de48e20&region=cn-north-4#/dashboard
           description: 信号处理与智能感知
         - title: 综合设计实践A
           logo: gitlab.webp
@@ -216,7 +216,7 @@
           description: 谷歌学术。
 
 
-    - term: AIC相关网站
+    - term: 临时使用
       links:
         - title: AIC官网
           logo: AIC.jpg
@@ -226,6 +226,14 @@
           logo: AIC.jpg
           url: https://reg.aicomp.cn/special/phb/list
           description: AIC排行榜
+        - title: 华为ICT学习空间
+          logo: 华为云.png
+          url: https://talent.shixizhi.huawei.com/center/privateCenter.htm?schoolId=1365189427395223554&type=studyCenter_LearningTask&sxz-lang=zh_CN&mapDetail=3&mapDetailId=1614901236532264961
+          description: 华为ICT学习空间
+        - title: 华为ICT初赛测试
+          logo: 华为云.png
+          url: https://talent.shixizhi.huawei.com/iexam/1365189427395223554/examInfo?examId=1984091954465353730&sxz-lang=zh_CN
+          description: 华为ICT初赛测试
 
     - term: 云南民族大学相关网站
       links:
@@ -773,6 +781,14 @@
           logo: 矩阵.png
           url: https://matrixcalc.org/zh-CN/
           description: 在线矩阵计算 - 矩阵运算工具
+        - title: PPT->PDF转换
+          logo: PDF.svg
+          url: https://tools.pdf24.org/zh/ppt-to-pdf
+          description: 在线PPT转PDF - PPT格式转换工具
+        - title: PDF编辑
+          logo: PDF.svg
+          url: https://pdfresizer.com/
+          description: 在线PDF编辑 - PDF格式编辑工具
 
 
 - taxonomy: 资讯学习
