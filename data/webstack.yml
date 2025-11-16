@@ -174,10 +174,10 @@
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/ichip/doc
           description: 智能芯片与系统实践课程网站
-        - title: verilog教程
-          logo: 菜鸟教程.png
-          url: https://www.runoob.com/w3cnote/verilog-tutorial.html
-          description: verilog教程 - 菜鸟教程。
+        - title: 思政课程实践环节
+          logo: 同济大学信息.png
+          url: https://shsj.tongji.edu.cn/adminportal/#/app/app-k4rhx79m/sp_political_recognition_xjl9g5z_84_list?envType=prod
+          description: 同济大学思政课程实践环节网站
         
     
     - term: 科研工具
@@ -214,6 +214,19 @@
           logo: 谷歌学术.webp
           url: https://scholar.google.com/?hl=zh-cn
           description: 谷歌学术。
+        - title: zotero中文网
+          logo: Zotero.png
+          url: https://zotero-chinese.com/
+          description: Zotero - 文献管理工具中文网。
+        - title: easyscholar
+          logo: easy.png
+          url: https://www.easyscholar.cc/
+          description: 文献插件
+        - title: codewithgpu
+          logo: code.svg
+          url: https://www.codewithgpu.com/app/market
+          description: GPU多用途
+        
 
 
     - term: 临时使用
@@ -226,14 +239,20 @@
           logo: AIC.jpg
           url: https://reg.aicomp.cn/special/phb/list
           description: AIC排行榜
-        - title: 华为ICT学习空间
-          logo: 华为云.png
-          url: https://talent.shixizhi.huawei.com/center/privateCenter.htm?schoolId=1365189427395223554&type=studyCenter_LearningTask&sxz-lang=zh_CN&mapDetail=3&mapDetailId=1614901236532264961
-          description: 华为ICT学习空间
-        - title: 华为ICT初赛测试
-          logo: 华为云.png
-          url: https://talent.shixizhi.huawei.com/iexam/1365189427395223554/examInfo?examId=1984091954465353730&sxz-lang=zh_CN
-          description: 华为ICT初赛测试
+        - title: Python3教程
+          logo: 菜鸟教程.png
+          url: https://www.runoob.com/python3/python3-tutorial.html
+          description: Python3教程 - 菜鸟教程
+        - title: verilog教程
+          logo: 菜鸟教程.png
+          url: https://www.runoob.com/w3cnote/verilog-tutorial.html
+          description: verilog教程 - 菜鸟教程。
+        - title: happy-llm
+          logo: github.png
+          url: https://github.com/datawhalechina/happy-llm?tab=readme-ov-file
+          description: 大模型教程 - happy-llm
+        
+        
 
     - term: 云南民族大学相关网站
       links:
@@ -339,6 +358,10 @@
           logo: sora.ico
           url: https://sora.chatgpt.com/explore
           description: Sora - OpenAI旗下AI绘画
+        - title: 椒图AI
+          logo: 椒图.webp
+          url: https://www.jiaotuai.cn/?ref=imyshare
+          description: AI绘画平台
         - title: Midjourney
           logo: midjourney.png
           url: https://www.midjourney.com/explore?tab=video_top
@@ -782,11 +805,11 @@
           url: https://matrixcalc.org/zh-CN/
           description: 在线矩阵计算 - 矩阵运算工具
         - title: PPT->PDF转换
-          logo: PDF.svg
+          logo: PDF.png
           url: https://tools.pdf24.org/zh/ppt-to-pdf
           description: 在线PPT转PDF - PPT格式转换工具
         - title: PDF编辑
-          logo: PDF.svg
+          logo: PDF.png
           url: https://pdfresizer.com/
           description: 在线PDF编辑 - PDF格式编辑工具
 
