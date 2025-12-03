@@ -43,6 +43,10 @@
       logo: 珅哥GPT.png
       url: https://shenge-gpt.vercel.app/
       description: 珅哥自己的GPT网站
+    - title: Docuclear
+      logo: 珅哥GPT.png
+      url: https://photo-shen.netlify.app/
+      description: 自己部署 - 基于google开发 - 图片工具
     - title: 关注我们
       logo: 关注.jpg
       url: https://www.bioitee.com
@@ -56,6 +60,10 @@
       logo: 腾讯云.ico
       url: https://console.cloud.tencent.com/
       description: 腾讯云 - 云计算服务平台。(服务器，个人介绍网站，个人导航站均托管在此处)
+    - title: 亚马逊云
+      logo: 亚马逊.png
+      url: https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
+      description: 亚马逊云 - 云计算服务平台。
     - title: 个人宝塔面板
       logo: 宝塔.jpg
       url: https://101.35.157.169:40523/home
@@ -222,6 +230,14 @@
           logo: easy.png
           url: https://www.easyscholar.cc/
           description: 文献插件
+        - title: 文献写作参考
+          logo: 文献.png
+          url: https://www.phrasebank.manchester.ac.uk/
+          description: 文献写作参考网站
+        - title: 文献关系图
+          logo: 关系.png
+          url: https://www.connectedpapers.com/
+          description: 给出文献间关系，方便查找其他文献
         - title: codewithgpu
           logo: code.svg
           url: https://www.codewithgpu.com/app/market
@@ -338,6 +354,10 @@
 
     - term: AI实用工具
       links:
+        - title: Gemini Balance
+          logo: google.png
+          url: https://lbzbcbrgkwdd.ap-northeast-1.clawcloudrun.com/keys
+          description: 谷歌API轮询
         - title: 结构化提示词
           logo: langgpt.jpeg
           url: https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe
@@ -639,6 +659,11 @@
           logo: 高砖积木.png
           url: https://gobricks.cn/
           description: 高砖积木 - 积木选购
+        - title: Pixabay
+          logo: pix.webp
+          url: https://pixabay.com/
+          description: 高质量音视频资源
+          
 
 
 - taxonomy: 实用工具
