@@ -53,6 +53,7 @@
       qrcode: 智语知库.jpg
       description: 微信公众号：智语知库
 
+
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
   links:
@@ -96,6 +97,7 @@
       logo: napcat.png
       url: http://101.35.157.169:6099/
       description: NapCat - QQ机器人管理平台（副）。
+
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -561,6 +563,10 @@
 
     - term: 学习资源
       links:
+        - title: 图欧学习网
+          logo: zlibrary.svg
+          url: https://tuostudy.com/
+          description: 资料大全
         - title: Z-library
           logo: zlibrary.svg
           url: https://zh.101-e.ru/
@@ -665,7 +671,6 @@
           description: 高质量音视频资源
           
 
-
 - taxonomy: 实用工具
   icon: fas fa-tools fa-lg
   list: 
@@ -679,6 +684,10 @@
           logo: 腾讯云.ico
           url: https://console.cloud.tencent.com/
           description: 腾讯云 - 云计算服务平台。(个人介绍网站与个人导航站均托管在此处)
+        - title: supabase
+          logo: supabase.jpg
+          url: https://supabase.com/dashboard/project/vhyrnavycheywmshooyj
+          description: 完美后端
         - title: namesilo
           logo: namesilo.webp
           url: https://www.namesilo.com/
@@ -711,6 +720,14 @@
           logo: IP优选平台.ico
           url: http://ip.flares.cloud/
           description: IP优选平台。
+        - title: 纯净住宅IP
+          logo: cliproxy.jpg
+          url: https://dash.cliproxy.com/cli/static-proxies
+          description: 纯净住宅IP
+        - title: 小机场
+          logo: Vercel.ico
+          url: https://xs-us.xyz/dashboard
+          description: 小机场
         - title: 个人订阅链接
           logo: 同济大学信息.png
           url: https://shen1.yaoshen806.sbs/f9f4abe6-9d2d-4c6e-8f00-d9aff3f6a6ef
@@ -797,6 +814,10 @@
           logo: 在线进制.ico
           url: https://tool.oschina.net/hexconvert
           description: 在线进制转换 - 进制转换工具
+        - title: 在线图片转SVG
+          logo: freeconvert.svg
+          url: https://www.freeconvert.com/zh/svg-converter
+          description: 在线图片转SVG
         - title: 在线音频转换
           logo: 在线音频.png
           url: https://online-audio-converter.com/
