@@ -43,10 +43,18 @@
       logo: 珅哥GPT.png
       url: https://shenge-gpt.vercel.app/
       description: 珅哥自己的GPT网站
-    - title: Docuclear
-      logo: 珅哥GPT.png
-      url: https://photo-shen.netlify.app/
-      description: 自己部署 - 基于google开发 - 图片工具
+    - title: HomePage
+      logo: homepage.jpg
+      url: https://shen806.dpdns.org/
+      description: 个人近期状态主页
+    - title: Fortress
+      logo: fortress.jpg
+      url: https://shentv.dpdns.org/
+      description: 个人本地信息存储
+    - title: 428806二维码制作小工具
+      logo: qr-shen.png
+      url: https://428806.xyz/
+      description: 自己开发的二维码制作小工具
     - title: 关注我们
       logo: 关注.jpg
       url: https://www.bioitee.com
@@ -684,6 +692,10 @@
           logo: 腾讯云.ico
           url: https://console.cloud.tencent.com/
           description: 腾讯云 - 云计算服务平台。(个人介绍网站与个人导航站均托管在此处)
+        - title: google-adsense
+          logo: google.png
+          url: https://adsense.google.com/
+          description: 谷歌广告服务
         - title: supabase
           logo: supabase.jpg
           url: https://supabase.com/dashboard/project/vhyrnavycheywmshooyj
@@ -724,10 +736,6 @@
           logo: cliproxy.jpg
           url: https://dash.cliproxy.com/cli/static-proxies
           description: 纯净住宅IP
-        - title: 小机场
-          logo: Vercel.ico
-          url: https://xs-us.xyz/dashboard
-          description: 小机场
         - title: 个人订阅链接
           logo: 同济大学信息.png
           url: https://shen1.yaoshen806.sbs/f9f4abe6-9d2d-4c6e-8f00-d9aff3f6a6ef
@@ -740,13 +748,25 @@
           logo: 机场.svg
           url: https://mitce.net/clientarea.php
           description: 稳定机场。
+        - title: 小机场
+          logo: Vercel.ico
+          url: https://xs-us.xyz/dashboard
+          description: 小机场
         - title: 贝锐花生壳
           logo: 贝锐.png
           url: https://console-v2.oray.com/
           description: 贝锐花生壳 - 内网穿透服务。
+        - title: sms接码平台
+          logo: SMS.svg
+          url: https://sms-activate.io/
+          description: 海外电话号码接码平台。
 
     - term: 实用小工具
       links:
+        - title: Demo-apk
+          logo: demo.png
+          url: https://demo2apk.lasuo.ai/
+          description: 网页直接生成apk文件
         - title: 老吴项目网
           logo: 老吴.png
           url: https://wf.xunbk.com/cyzx
