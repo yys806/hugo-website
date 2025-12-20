@@ -39,10 +39,10 @@
       logo: Gmail.png
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail - 在线邮箱服务。
-    - title: 珅哥GPT
-      logo: 珅哥GPT.png
+    - title: Nexus Terminal
+      logo: nexus.jpg
       url: https://shenge-gpt.vercel.app/
-      description: 珅哥自己的GPT网站
+      description: 珅哥自己的乐趣极客网站
     - title: HomePage
       logo: homepage.jpg
       url: https://shen806.dpdns.org/
@@ -55,6 +55,10 @@
       logo: qr-shen.png
       url: https://428806.xyz/
       description: 自己开发的二维码制作小工具
+    - title: Photo-shen
+      logo: 珅哥GPT.png
+      url: https://photo-shen.netlify.app/
+      description: 自己开发的文档去黑边工具
     - title: 关注我们
       logo: 关注.jpg
       url: https://www.bioitee.com
