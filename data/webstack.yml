@@ -9,19 +9,23 @@
       description: 珅哥个人博客网站
     - title: 作者个人介绍网站
       logo: 个人介绍.png
-      url: https://www.shen806.icu/
+      url: http://shen-intro.de5.net/
       description: 珅哥个人介绍网站
     - title: Rainbow & shenshen
       logo: love.jpg
-      url: http://101.35.157.169/
+      url: https://zchyys.de5.net/
       description: Rainbow & shenshen 情侣博客网站
+    - title: 4周年纪念站
+      logo: love.jpg
+      url: https://rainbow-shen.cn/
+      description: Rainbow和Shenshen的4周年纪念网站
     - title: 微信公众平台
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 微信公众平台。
     - title: 深度研究
       logo: 深度研究.ico
-      url: https://deep-research-eight-lime.vercel.app/
+      url: http://shen-ai.de5.net/
       description: 深度研究网站
     - title: openlist
       logo: openlist.webp
@@ -29,7 +33,7 @@
       description: openlist 网站 - 个人网盘。
     - title: TV
       logo: TV.webp
-      url: https://tv-ten-chi.vercel.app/
+      url: https://shen806.de5.net/
       description: 个人TV 网站
     - title: QQ 邮箱
       logo: qq邮箱.png
@@ -41,7 +45,7 @@
       description: Gmail - 在线邮箱服务。
     - title: Nexus Terminal
       logo: nexus.jpg
-      url: https://shenge-gpt.vercel.app/
+      url: https://shen-play.de5.net/
       description: 珅哥自己的乐趣极客网站
     - title: HomePage
       logo: homepage.jpg
@@ -708,10 +712,26 @@
           logo: namesilo.webp
           url: https://www.namesilo.com/
           description: namesilo - 国外域名注册与管理服务（十元域名）。
-        - title: FreeDomain
+        - title: FreeDomain-US.KG
           logo: FreeDomain.jpg
           url: https://dash.domain.digitalplat.org/panel/main
-          description: FreeDomain - 国外域名注册与管理服务（免费域名）。
+          description: FreeDomain - 国外域名注册与管理服务（两个免费域名）。
+        - title: DNSHE
+          logo: dnshe.png
+          url: https://www.dnshe.com/
+          description: 5个免费域名
+        - title: Spaceship
+          logo: spaceship.png
+          url: https://www.spaceship.com/zh/
+          description: 50元以内10年域名
+        - title: PSL
+          logo: 111.jpg
+          url: https://publicsuffix.org/list/public_suffix_list.dat
+          description: 查看已被cloudflare收录的域名
+        - title: chinaz
+          logo: ping.png
+          url: https://ping.chinaz.com/
+          description: 网站测速
         - title: Vercel
           logo: Vercel.ico
           url: https://vercel.com/
