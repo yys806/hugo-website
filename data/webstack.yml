@@ -11,6 +11,10 @@
       logo: 个人介绍.png
       url: http://shen-intro.de5.net/
       description: 珅哥个人介绍网站
+    - title: 彩虹介绍网站
+      logo: 个人介绍.png
+      url: https://zch428.de5.net/
+      description: 彩虹个人介绍网站
     - title: Rainbow & shenshen
       logo: love.jpg
       url: https://zchyys.de5.net/
@@ -81,53 +85,113 @@
       qrcode: 智语知库.jpg
       description: 微信公众号：智语知库
 
-
-- taxonomy: 服务器相关
-  icon: fas fa-tools fa-lg
-  links:
-    - title: 腾讯云
-      logo: 腾讯云.ico
-      url: https://console.cloud.tencent.com/
-      description: 腾讯云 - 云计算服务平台。(服务器，个人介绍网站，个人导航站均托管在此处)
-    - title: 亚马逊云
-      logo: 亚马逊.png
-      url: https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
-      description: 亚马逊云 - 云计算服务平台。
-    - title: 个人宝塔面板
-      logo: 宝塔.jpg
-      url: https://101.35.157.169:40523/home
-      description: 个人宝塔面板 - 个人网站管理面板。
-    - title: Cloudflare
-      logo: cloudflare.ico
-      url: https://dash.cloudflare.com/
-      description: Cloudflare - 图床。
-    - title: StarDot
-      logo: 图床.ico
-      url: https://dashboard.stardots.io/
-      description: StarDot - 表情包图床。
-    - title: openlist
-      logo: openlist.webp
-      url: http://101.35.157.169:15244/
-      description: openlist 网站 - 个人网盘。
-    - title: 情侣博客后台
-      logo: love.jpg
-      url: http://101.35.157.169/admin
-      description: 情侣博客管理平台。
-    - title: 明月浩空网
-      logo: myhk.jpg
-      url: https://myhkw.cn/admin
-      description: 明月浩空网 - 网页音乐。
-    - title: AstrBot
-      logo: astrbot.webp
-      url: http://101.35.157.169:6185/
-      description: AstrBot - QQ机器人管理平台。
-    - title: NapCat
-      logo: napcat.png
-      url: http://101.35.157.169:6099/
-      description: NapCat - QQ机器人管理平台（副）。
-
-
-- taxonomy: 科研办公
+- taxonomy: 研究生
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 保研
+      links:
+        - title: 软科中国大学排名
+          logo: 软科.svg
+          url: https://www.shanghairanking.cn/rankings
+          description: 中国大学排名
+        - title: 清华大学深圳研究院
+          logo: 清华大学.jpg
+          url: https://www.sigs.tsinghua.edu.cn/
+          description: 清华大学深圳研究院研究生招生信息网
+        - title: 清华大学本部
+          logo: 清华大学.jpg
+          url: https://yz.tsinghua.edu.cn/
+          description: 清华大学本部网站
+        - title: 清华大学本部
+          logo: 清华大学.jpg
+          url: https://yz.tsinghua.edu.cn/
+          description: 清华大学本部网站
+        - title: 清深电子通信工程项目
+          logo: 清华大学.jpg
+          url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20861/page.htm
+          description: 清深电子通信工程项目
+        - title: 北京大学本部
+          logo: 北大.png
+          url: https://admission.pku.edu.cn/
+          description: 北京大学本部网站
+        - title: 北京大学深圳研究院
+          logo: 北大.png
+          url: https://admission.pkusz.edu.cn/
+          description: 北京大学深圳研究院网站
+        - title: 浙江大学研究生招生信息网
+          logo: 浙江大学.jpg
+          url: http://www.grs.zju.edu.cn/yjszs/
+          description: 浙江大学研究生招生信息网
+        - title: 上海交通大学研究生招生信息网
+          logo: 上海交通大学.webp
+          url: https://yzb.sjtu.edu.cn/
+          description: 上海交通大学研究生招生信息网
+    - term: 科研
+      links:
+        - title: 谷歌学术
+          logo: 谷歌学术.webp
+          url: https://scholar.google.com/?hl=zh-cn
+          description: 谷歌学术。
+        - title: Overleaf
+          logo: overleaf.webp
+          url: https://www.overleaf.com/
+          description: Overleaf - 在线LaTeX编辑器。
+        - title: Latex入门教程
+          logo: overleaf.webp
+          url: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+          description: Latex入门教程 - 30分钟学会LaTeX。
+        - title: 同济大学图书馆
+          logo: 同济大学图书馆.jpg
+          url: https://www.lib.tongji.edu.cn/
+          description: 同济大学图书馆网站
+        - title: 文献写作参考
+          logo: 文献.png
+          url: https://www.phrasebank.manchester.ac.uk/
+          description: 文献写作参考网站
+        - title: 文献关系图
+          logo: 关系.png
+          url: https://www.connectedpapers.com/
+          description: 给出文献间关系，方便查找其他文献
+        - title: AutoDL算力云
+          logo: autodl.png
+          url: https://www.autodl.com/
+          description: AutoDL算力云 - 租算力
+        - title: codewithgpu
+          logo: code.svg
+          url: https://www.codewithgpu.com/app/market
+          description: GPU多用途
+        - title: Z-library
+          logo: zl.png
+          url: https://zh.101-e.ru/
+          description: 全球最大电子书平台
+        - title: 玄策
+          logo: xuance.webp
+          url: https://xuance.readthedocs.io/zh/latest/documents/usage/installation.html
+          description: 玄策算法库
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+        - title: zotero中文网
+          logo: Zotero.png
+          url: https://zotero-chinese.com/
+          description: Zotero - 文献管理工具中文网。
+        - title: easyscholar
+          logo: easy.png
+          url: https://www.easyscholar.cc/
+          description: 文献插件
+    - term: 其他
+      links:
+        - title: 中国版权保护中心
+          logo: 中国版权.gif
+          url: https://www.ccopyright.com.cn/
+          description: 中国版权保护中心网站
+    
+- taxonomy: 办公
   icon: fas fa-flask fa-lg
   list:
     - term: 同济大学相关网站
@@ -216,89 +280,6 @@
           logo: 同济大学信息.png
           url: https://shsj.tongji.edu.cn/adminportal/#/app/app-k4rhx79m/sp_political_recognition_xjl9g5z_84_list?envType=prod
           description: 同济大学思政课程实践环节网站
-        
-    
-    - term: 科研工具
-      links:
-        - title: AutoDL算力云
-          logo: autodl.png
-          url: https://www.autodl.com/
-          description: AutoDL算力云 - 租算力
-        - title: Z-library
-          logo: zl.png
-          url: https://zh.101-e.ru/
-          description: 全球最大电子书平台
-        - title: 同济大学图书馆
-          logo: 同济大学图书馆.jpg
-          url: https://www.lib.tongji.edu.cn/
-          description: 同济大学图书馆网站
-        - title: 玄策
-          logo: xuance.webp
-          url: https://xuance.readthedocs.io/zh/latest/documents/usage/installation.html
-          description: 玄策算法库
-        - title: 数模国赛官网
-          logo: 数模国赛.png
-          url: https://cumcm.cnki.net/cumcm/studentHome/studentHome
-          description: 数模国赛官网
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: 谷歌学术
-          logo: 谷歌学术.webp
-          url: https://scholar.google.com/?hl=zh-cn
-          description: 谷歌学术。
-        - title: zotero中文网
-          logo: Zotero.png
-          url: https://zotero-chinese.com/
-          description: Zotero - 文献管理工具中文网。
-        - title: easyscholar
-          logo: easy.png
-          url: https://www.easyscholar.cc/
-          description: 文献插件
-        - title: 文献写作参考
-          logo: 文献.png
-          url: https://www.phrasebank.manchester.ac.uk/
-          description: 文献写作参考网站
-        - title: 文献关系图
-          logo: 关系.png
-          url: https://www.connectedpapers.com/
-          description: 给出文献间关系，方便查找其他文献
-        - title: codewithgpu
-          logo: code.svg
-          url: https://www.codewithgpu.com/app/market
-          description: GPU多用途
-        
-
-
-    - term: 临时使用
-      links:
-        - title: AIC官网
-          logo: AIC.jpg
-          url: https://reg.aicomp.cn/app
-          description: AIC官网
-        - title: AIC排行榜
-          logo: AIC.jpg
-          url: https://reg.aicomp.cn/special/phb/list
-          description: AIC排行榜
-        - title: Python3教程
-          logo: 菜鸟教程.png
-          url: https://www.runoob.com/python3/python3-tutorial.html
-          description: Python3教程 - 菜鸟教程
-        - title: verilog教程
-          logo: 菜鸟教程.png
-          url: https://www.runoob.com/w3cnote/verilog-tutorial.html
-          description: verilog教程 - 菜鸟教程。
-        - title: happy-llm
-          logo: github.png
-          url: https://github.com/datawhalechina/happy-llm?tab=readme-ov-file
-          description: 大模型教程 - happy-llm
-        
-        
 
     - term: 云南民族大学相关网站
       links:
@@ -452,27 +433,50 @@
           logo: n8n.jpg
           url: https://shen806.app.n8n.cloud/home/workflows
           description: 开源工作流。
-      
 
-    - term: 研究生信息
-      links:
-        - title: 软科中国大学排名
-          logo: 软科.svg
-          url: https://www.shanghairanking.cn/rankings
-          description: 中国大学排名
-        - title: 清华大学深圳研究院研究生招生信息网
-          logo: 清华大学.jpg
-          url: https://www.sigs.tsinghua.edu.cn/main.htm
-          description: 清华大学深圳研究院研究生招生信息网
-        - title: 浙江大学研究生招生信息网
-          logo: 浙江大学.jpg
-          url: http://www.grs.zju.edu.cn/yjszs/
-          description: 浙江大学研究生招生信息网
-        - title: 上海交通大学研究生招生信息网
-          logo: 上海交通大学.webp
-          url: https://yzb.sjtu.edu.cn/
-          description: 上海交通大学研究生招生信息网
-
+- taxonomy: 服务器相关
+  icon: fas fa-tools fa-lg
+  links:
+    - title: 腾讯云
+      logo: 腾讯云.ico
+      url: https://console.cloud.tencent.com/
+      description: 腾讯云 - 云计算服务平台。(服务器，个人介绍网站，个人导航站均托管在此处)
+    - title: 亚马逊云
+      logo: 亚马逊.png
+      url: https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
+      description: 亚马逊云 - 云计算服务平台。
+    - title: 个人宝塔面板
+      logo: 宝塔.jpg
+      url: https://101.35.157.169:40523/home
+      description: 个人宝塔面板 - 个人网站管理面板。
+    - title: Cloudflare
+      logo: cloudflare.ico
+      url: https://dash.cloudflare.com/
+      description: Cloudflare - 图床。
+    - title: StarDot
+      logo: 图床.ico
+      url: https://dashboard.stardots.io/
+      description: StarDot - 表情包图床。
+    - title: openlist
+      logo: openlist.webp
+      url: http://101.35.157.169:15244/
+      description: openlist 网站 - 个人网盘。
+    - title: 情侣博客后台
+      logo: love.jpg
+      url: http://101.35.157.169/admin
+      description: 情侣博客管理平台。
+    - title: 明月浩空网
+      logo: myhk.jpg
+      url: https://myhkw.cn/admin
+      description: 明月浩空网 - 网页音乐。
+    - title: AstrBot
+      logo: astrbot.webp
+      url: http://101.35.157.169:6185/
+      description: AstrBot - QQ机器人管理平台。
+    - title: NapCat
+      logo: napcat.png
+      url: http://101.35.157.169:6099/
+      description: NapCat - QQ机器人管理平台（副）。
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -573,7 +577,6 @@
           logo: n网.png
           url: https://www.nexusmods.com/
           description: 游戏模组网站。
-
 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
@@ -698,7 +701,6 @@
           url: https://pixabay.com/
           description: 高质量音视频资源
           
-
 - taxonomy: 实用工具
   icon: fas fa-tools fa-lg
   list: 
@@ -914,7 +916,6 @@
           logo: PDF.png
           url: https://pdfresizer.com/
           description: 在线PDF编辑 - PDF格式编辑工具
-
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
