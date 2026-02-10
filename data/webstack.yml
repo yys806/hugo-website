@@ -47,6 +47,10 @@
       logo: Gmail.png
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail - 在线邮箱服务。
+    - title: YU邮箱
+      logo: qq邮箱.png
+      url: https://mail.970410.xyz/
+      description: 临时邮箱
     - title: Nexus Terminal
       logo: nexus.jpg
       url: https://shen-play.de5.net/
@@ -94,22 +98,26 @@
           logo: 软科.svg
           url: https://www.shanghairanking.cn/rankings
           description: 中国大学排名
+        - title: 清华大学研究生报名系统
+          logo: 清华大学.jpg
+          url: https://yzbm.tsinghua.edu.cn/ndLogin
+          description: 清华大学研究生报名系统
+        - title: 清华大学本部
+          logo: 清华大学.jpg
+          url: https://yz.tsinghua.edu.cn/
+          description: 清华大学本部网站
         - title: 清华大学深圳研究院
           logo: 清华大学.jpg
           url: https://www.sigs.tsinghua.edu.cn/
           description: 清华大学深圳研究院研究生招生信息网
-        - title: 清华大学本部
-          logo: 清华大学.jpg
-          url: https://yz.tsinghua.edu.cn/
-          description: 清华大学本部网站
-        - title: 清华大学本部
-          logo: 清华大学.jpg
-          url: https://yz.tsinghua.edu.cn/
-          description: 清华大学本部网站
         - title: 清深电子通信工程项目
           logo: 清华大学.jpg
           url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20861/page.htm
           description: 清深电子通信工程项目
+        - title: 北京大学研究生报名系统
+          logo: 北大.png
+          url: https://admission.pku.edu.cn/applications/
+          description: 北京大学研究生报名系统
         - title: 北京大学本部
           logo: 北大.png
           url: https://admission.pku.edu.cn/
@@ -118,6 +126,14 @@
           logo: 北大.png
           url: https://admission.pkusz.edu.cn/
           description: 北京大学深圳研究院网站
+        - title: 北京大学深圳研究院-信息工程学院
+          logo: 北大.png
+          url: https://www.ece.pku.edu.cn/index.htm
+          description: 北京大学深圳研究院信息工程学院网站
+        - title: 北京大学深圳研究院-科学智能学院
+          logo: 北大.png
+          url: https://ai4s.pkusz.edu.cn/index.htm
+          description: 北京大学深圳研究院科学智能学院网站
         - title: 浙江大学研究生招生信息网
           logo: 浙江大学.jpg
           url: http://www.grs.zju.edu.cn/yjszs/
