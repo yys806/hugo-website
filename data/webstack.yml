@@ -445,10 +445,10 @@
           logo: openrouter.ico
           url: https://openrouter.ai/
           description: 大模型API聚合平台
-        - title: n8n
-          logo: n8n.jpg
-          url: https://shen806.app.n8n.cloud/home/workflows
-          description: 开源工作流。
+        - title: mem0 - AI长期记忆
+          logo: mem0.png
+          url: https://app.mem0.ai/dashboard
+          description: AI长期记忆平台
 
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
@@ -666,6 +666,19 @@
           logo: 石用软件.webp
           url: https://shiyrj.top/
           description: 石用软件 - 软件资源
+        - title: 天聚数行API
+          logo: tian.png
+          url: https://www.tianapi.com/
+          description: 每天100次免费API调用
+        - title: Free-API
+          logo: tian.png
+          url: https://www.free-api.com/
+          description: Free-API - 免费API资源
+        - title: ROLL API
+          logo: roll.jpg
+          url: https://www.mxnzp.com/
+          description: ROLL API - 免费API资源
+
 
     - term: 复刻资源
       links:
