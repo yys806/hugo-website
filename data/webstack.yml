@@ -433,6 +433,14 @@
 
     - term: AI实用工具
       links:
+        - title: SiliconFlow 模型平台
+          logo: account-siliconflow-cn.ico
+          url: https://cloud.siliconflow.cn/me/models
+          description: 硅基流动模型与API管理平台。
+        - title: Tavily
+          logo: app-tavily-com.ico
+          url: https://app.tavily.com/home
+          description: Tavily 搜索API平台。
         - title: Gemini Balance
           logo: google.png
           url: https://lbzbcbrgkwdd.ap-northeast-1.clawcloudrun.com/keys
@@ -551,6 +559,10 @@
   list:
     - term: 影音视频
       links:
+        - title: Save Walter White
+          logo: www-savewalterwhite-com.ico
+          url: http://www.savewalterwhite.com/
+          description: Save Walter White 互动页面。
         - title: 抖音
           logo: 抖音.ico
           url: https://www.douyin.com/
@@ -594,6 +606,10 @@
 
     - term: MC资源
       links:
+        - title: GrabCraft
+          logo: default.webp
+          url: https://www.grabcraft.com/
+          description: GrabCraft - Minecraft 建筑蓝图资源。
         - title: modrinth
           logo: modrinth.ico
           url: https://modrinth.com/
