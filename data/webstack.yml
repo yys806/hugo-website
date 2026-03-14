@@ -509,6 +509,10 @@
           logo: mem0.png
           url: https://app.mem0.ai/dashboard
           description: AI长期记忆平台
+        - title: ClawHub Skills
+          logo: clawhub-ai.ico
+          url: https://clawhub.ai/skills?sort=downloads
+          description: ClawHub 技能市场（按下载量排序）
 
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
