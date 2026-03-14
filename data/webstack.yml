@@ -144,6 +144,58 @@
           description: 上海交通大学研究生招生信息网
     - term: 科研
       links:
+        - title: 课题组介绍-交叉信息研究院
+          logo: iiis-tsinghua-edu-cn.png
+          url: https://iiis.tsinghua.edu.cn/kxyj/ktzjs.htm
+          description: 课题组介绍-交叉信息研究院 相关页面
+        - title: 课题组介绍-人工智能学院
+          logo: collegeai-tsinghua-edu-cn.png
+          url: https://collegeai.tsinghua.edu.cn/kxyj/ktzjs.htm
+          description: 课题组介绍-人工智能学院 相关页面
+        - title: 电子信息（大模型科学与工程）
+          logo: www-sigs-tsinghua-edu-cn.ico
+          url: https://www.sigs.tsinghua.edu.cn/2025/0709/c1053a284124/page.htm
+          description: 项目简介以及培养目标电子信息（大模型科学与工程）项目是在当前人工智能行业与大模型技术快速。
+        - title: 电子信息（人工智能）
+          logo: www-sigs-tsinghua-edu-cn.ico
+          url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20864/page.htm
+          description: 项目概况人工智能工程硕士项目属于我院“6+1”主题领域重点发展项目之一，依托自动化、计算。
+        - title: 清华深研院-中文信息（cbk）
+          logo: www-sigs-tsinghua-edu-cn.ico
+          url: https://www.sigs.tsinghua.edu.cn/cbk/main.htm
+          description: 清华大学
+        - title: 清华深研院-中文信息（yyj）
+          logo: www-sigs-tsinghua-edu-cn.ico
+          url: https://www.sigs.tsinghua.edu.cn/yyj/main.htm
+          description: 清华大学
+        - title: AI Agent课题组-人工智能学院
+          logo: collegeai-tsinghua-edu-cn.png
+          url: https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm
+          description: AI Agent课题组-人工智能学院 相关页面
+        - title: 清华大学具身智能实验室-交叉信息研究院
+          logo: iiis-tsinghua-edu-cn.png
+          url: https://iiis.tsinghua.edu.cn/kxyj/ktzjs/qhdxjsznsys.htm
+          description: 清华大学具身智能实验室-交叉信息研究院 相关页面
+        - title: PCNI Homepage
+          logo: pcni-pku-edu-cn.jpg
+          url: http://pcni.pku.edu.cn/cn/homepage.html
+          description: Homepage 相关页面
+        - title: 张嘉楠-北京大学电子学院
+          logo: ele-pku-edu-cn.png
+          url: https://ele.pku.edu.cn/info/1121/2495.htm
+          description: 职称：研究员、助理教授导师类别：博士生导师研究所：信息与通信研究所招生专业：信号与信息处。
+        - title: 蔡雪松-北京大学电子学院
+          logo: ele-pku-edu-cn.png
+          url: https://ele.pku.edu.cn/info/1121/3544.htm
+          description: 职称：研究员、预聘副教授导师类别：博士生导师研究所：信息与通信研究所研究领域：无线通信办。
+        - title: Jia Li's Homepage
+          logo: default.webp
+          url: https://lj2lijia.github.io/
+          description: Jia Li's Homepage 相关页面
+        - title: -E- Lab
+          logo: maureenzou-github-io.png
+          url: https://maureenzou.github.io/lab.html
+          description: -E- Lab 相关页面
         - title: 谷歌学术
           logo: 谷歌学术.webp
           url: https://scholar.google.com/?hl=zh-cn
