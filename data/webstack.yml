@@ -787,6 +787,26 @@
   list: 
     - term: 网站设计
       links:
+        - title: Stripe Dashboard
+          logo: dashboard-stripe-com.ico
+          url: https://dashboard.stripe.com/
+          description: Stripe 支付后台管理平台。
+        - title: Neon Console
+          logo: console-neon-tech.ico
+          url: https://console.neon.tech/
+          description: Neon Postgres 控制台。
+        - title: Figma
+          logo: www-figma-com.png
+          url: https://www.figma.com/
+          description: Figma 协作设计平台。
+        - title: Replicate
+          logo: replicate-com.png
+          url: https://replicate.com/
+          description: Replicate AI 模型 API 平台。
+        - title: Semgrep
+          logo: semgrep-dev.ico
+          url: https://semgrep.dev/
+          description: Semgrep 应用安全检测平台。
         - title: Cloudflare
           logo: cloudflare.ico
           url: https://dash.cloudflare.com/
