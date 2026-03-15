@@ -84,7 +84,7 @@
       url: https://2352396.de5.net/
       description: 开发的论文小工具
     - title: BBU Analysis Site
-      logo: default.webp
+      logo: bbu-analysis-site-netlify-app.svg
       url: https://bbu-analysis-site.netlify.app/
       description: BBU 分析与展示网站
     - title: 关注我们
@@ -438,7 +438,7 @@
     - term: AI实用工具
       links:
         - title: LobeHub
-          logo: default.webp
+          logo: lobehub-com.ico
           url: https://lobehub.com/
           description: 开源 AI 应用与工具集合平台
         - title: SiliconFlow 模型平台
