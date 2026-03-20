@@ -31,10 +31,6 @@
       logo: 深度研究.ico
       url: http://shen-ai.de5.net/
       description: 深度研究网站
-    - title: openlist
-      logo: openlist.webp
-      url: http://101.35.157.169:15244/
-      description: openlist 网站 - 个人网盘。
     - title: TV
       logo: TV.webp
       url: https://shen806.de5.net/
@@ -449,10 +445,6 @@
           logo: app-tavily-com.ico
           url: https://app.tavily.com/home
           description: Tavily 搜索API平台。
-        - title: Gemini Balance
-          logo: google.png
-          url: https://lbzbcbrgkwdd.ap-northeast-1.clawcloudrun.com/keys
-          description: 谷歌API轮询
         - title: 结构化提示词
           logo: langgpt.jpeg
           url: https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe
@@ -521,50 +513,6 @@
           logo: clawhub-ai.ico
           url: https://clawhub.ai/skills?sort=downloads
           description: ClawHub 技能市场（按下载量排序）
-
-- taxonomy: 服务器相关
-  icon: fas fa-tools fa-lg
-  links:
-    - title: 腾讯云
-      logo: 腾讯云.ico
-      url: https://console.cloud.tencent.com/
-      description: 腾讯云 - 云计算服务平台。(服务器，个人介绍网站，个人导航站均托管在此处)
-    - title: 亚马逊云
-      logo: 亚马逊.png
-      url: https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
-      description: 亚马逊云 - 云计算服务平台。
-    - title: 个人宝塔面板
-      logo: 宝塔.jpg
-      url: https://101.35.157.169:40523/home
-      description: 个人宝塔面板 - 个人网站管理面板。
-    - title: Cloudflare
-      logo: cloudflare.ico
-      url: https://dash.cloudflare.com/
-      description: Cloudflare - 图床。
-    - title: StarDot
-      logo: 图床.ico
-      url: https://dashboard.stardots.io/
-      description: StarDot - 表情包图床。
-    - title: openlist
-      logo: openlist.webp
-      url: http://101.35.157.169:15244/
-      description: openlist 网站 - 个人网盘。
-    - title: 情侣博客后台
-      logo: love.jpg
-      url: http://101.35.157.169/admin
-      description: 情侣博客管理平台。
-    - title: 明月浩空网
-      logo: myhk.jpg
-      url: https://myhkw.cn/admin
-      description: 明月浩空网 - 网页音乐。
-    - title: AstrBot
-      logo: astrbot.webp
-      url: http://101.35.157.169:6185/
-      description: AstrBot - QQ机器人管理平台。
-    - title: NapCat
-      logo: napcat.png
-      url: http://101.35.157.169:6099/
-      description: NapCat - QQ机器人管理平台（副）。
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
