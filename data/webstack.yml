@@ -285,6 +285,10 @@
           logo: easy.png
           url: https://www.easyscholar.cc/
           description: 文献插件
+        - title: IEEE Template Selector
+          logo: Zotero.png
+          url: https://template-selector.ieee.org/secure/templateSelector/publicationType
+          description: IEEE Template Selector - IEEE论文模板选择器。
     - term: 其他
       links:
         - title: 中国版权保护中心
@@ -790,6 +794,14 @@
           logo: pix.webp
           url: https://pixabay.com/
           description: 高质量音视频资源
+        - title: Perler Beads
+          logo: pindou.png
+          url: https://perlerbeads.net/
+          description: Perler Beads - 拼豆转换
+        - title: sweezy-cursors
+          logo: cursors.png
+          url: https://sweezy-cursors.com/
+          description: sweezy-cursors - 免费鼠标指针下载
           
 - taxonomy: 实用工具
   icon: fas fa-tools fa-lg
@@ -800,6 +812,14 @@
           logo: dashboard-stripe-com.ico
           url: https://dashboard.stripe.com/
           description: Stripe 支付后台管理平台。
+        - title: simple icons
+          logo: simple.webp
+          url: https://simpleicons.org/
+          description: simple icons - 免费图标资源。
+        - title: firecrawl
+          logo: fire.webp
+          url: https://www.firecrawl.dev/
+          description: firecrawl - AI驱动的网络爬虫平台。
         - title: Neon Console
           logo: console-neon-tech.ico
           url: https://console.neon.tech/
