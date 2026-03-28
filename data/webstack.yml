@@ -83,6 +83,14 @@
       logo: bbu-analysis-site-netlify-app.svg
       url: https://bbu-analysis-site.netlify.app/
       description: BBU 分析与展示网站
+    - title: 珅玉定制管理后台
+      logo: shenyu.png
+      url: https://shen806.us.ci/admin
+      description: 珅玉定制管理后台
+    - title: 珅玉定制
+      logo: shenyu.png
+      url: https://shen806.us.ci/admin
+      description: 珅玉定制前台
     - title: 关注我们
       logo: 关注.jpg
       url: https://www.bioitee.com
@@ -120,6 +128,18 @@
       logo: 1panel.webp
       url:  http://[2607:f130:0:174::ca5:58a6]:31072/978ee282b5
       description: 国外服务器管理面板 - 1panel面板。
+    - title: 密码管理bitwarden
+      logo: bitwarden.webp
+      url:  https://pwd.yly113.de5.net/
+      description: 密码管理工具 - bitwarden。
+    - title: jellyfin
+      logo: jellyfin.webp
+      url:  https://v.yly113.de5.net/
+      description: 媒体服务器 - jellyfin。
+    - title: qbittorrent
+      logo: qb.webp
+      url:  https://bt.yly113.de5.net/
+      description: BT下载工具 - qbittorrent。
 
 
 - taxonomy: 研究生
@@ -470,6 +490,10 @@
 
     - term: AI实用工具
       links:
+        - title: AI订阅
+          logo: baibai.ico
+          url: https://xzfk.sharesai.xyz/cat/4
+          description: 买AI账号的地方
         - title: LobeHub
           logo: lobehub-com.ico
           url: https://lobehub.com/
@@ -672,6 +696,14 @@
           logo: cilicili.ico
           url: https://clicli.com.cn/
           description: 动漫资源
+        - title: snowfl
+          logo: snowfl.png
+          url: https://snowfl.com/
+          description: snowfl - 资源搜索引擎- 国外磁力链接
+        - title: Cilimo
+          logo: cilimo.webp
+          url: https://cilimo.com/
+          description: 国内磁力链接搜索引擎
 
     - term: 学习资源
       links:
