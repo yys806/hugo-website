@@ -132,14 +132,6 @@
       logo: bitwarden.webp
       url:  https://pwd.yly113.de5.net/
       description: 密码管理工具 - bitwarden。
-    - title: jellyfin
-      logo: jellyfin.webp
-      url:  https://v.yly113.de5.net/
-      description: 媒体服务器 - jellyfin。
-    - title: qbittorrent
-      logo: qb.webp
-      url:  https://bt.yly113.de5.net/
-      description: BT下载工具 - qbittorrent。
 
 
 - taxonomy: 研究生
