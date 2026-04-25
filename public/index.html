@@ -10000,6 +10000,26 @@
 </div>
 
 
+<div class="site-search-float" id="site-search-float">
+    <button class="site-search-toggle" type="button" aria-label="站内搜索" aria-expanded="false">
+        <i class="iconfont icon-search"></i>
+    </button>
+    <div class="site-search-panel" role="search" aria-label="站内搜索">
+        <form class="site-search-form" autocomplete="off">
+            <i class="iconfont icon-search"></i>
+            <input type="search" id="site-search-input" placeholder="站内搜索网站" aria-label="站内搜索网站">
+            <button class="site-search-clear" type="button" aria-label="清空搜索">
+                <i class="iconfont icon-close"></i>
+            </button>
+        </form>
+        <div class="site-search-meta">
+            <span class="site-search-count">0 个结果</span>
+        </div>
+        <div class="site-search-results" id="site-search-results"></div>
+    </div>
+</div>
+
+
 <div class="modal fade search-modal" id="search-modal">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content">
@@ -10168,6 +10188,7 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
 <script type='text/javascript' src='https://hugo-website-three.vercel.app/assets/js/bootstrap.min-4.3.1.js' id='bootstrap-js'></script>
 <script type='text/javascript' src='https://hugo-website-three.vercel.app/assets/js/theia-sticky-sidebar-1.5.0.js' id='sidebar-js'></script>
 <script type='text/javascript' src='https://hugo-website-three.vercel.app/assets/js/lazyload.min-12.4.0.js' id='lazyload-js'></script>
+<script type='text/javascript' src='https://hugo-website-three.vercel.app/assets/js/site-search.js' id='site-search-js'></script>
 
 
 <script type='text/javascript' src='https://hugo-website-three.vercel.app/assets/js/app-mini.js' id='appmini-js'></script>
@@ -10277,5 +10298,4 @@ function switchNightMode(){
 </script>
 </body>
 </html>
-
 
