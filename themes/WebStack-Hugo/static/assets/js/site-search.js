@@ -9,6 +9,9 @@
     var currentResults = [];
     var activeIndex = 0;
     var activeTimer = null;
+    var positionKey = 'siteSearchFloatPosition';
+    var dragState = null;
+    var suppressClick = false;
 
     function normalize(value) {
         return (value || '').toString().replace(/\s+/g, ' ').trim().toLowerCase();
@@ -192,6 +195,136 @@
         }, 4200);
     }
 
+    function viewportSize() {
+        return {
+            width: window.innerWidth || document.documentElement.clientWidth,
+            height: window.innerHeight || document.documentElement.clientHeight
+        };
+    }
+
+    function clampPosition(left, top) {
+        var viewport = viewportSize();
+        var rect = $root[0].getBoundingClientRect();
+        var margin = 8;
+        var width = rect.width || 48;
+        var height = rect.height || 48;
+
+        return {
+            left: Math.min(Math.max(margin, left), viewport.width - width - margin),
+            top: Math.min(Math.max(margin, top), viewport.height - height - margin)
+        };
+    }
+
+    function updatePanelPlacement() {
+        var rect = $root[0].getBoundingClientRect();
+        var viewport = viewportSize();
+
+        $root.toggleClass('is-panel-right', rect.left < viewport.width / 2);
+        $root.toggleClass('is-panel-down', rect.top < viewport.height / 2);
+    }
+
+    function setFloatPosition(left, top, shouldSave) {
+        var next = clampPosition(left, top);
+
+        $root.css({
+            left: next.left + 'px',
+            top: next.top + 'px',
+            right: 'auto',
+            bottom: 'auto'
+        });
+        updatePanelPlacement();
+
+        if (shouldSave) {
+            window.localStorage.setItem(positionKey, JSON.stringify(next));
+        }
+    }
+
+    function readSavedPosition() {
+        try {
+            return JSON.parse(window.localStorage.getItem(positionKey) || 'null');
+        } catch (error) {
+            return null;
+        }
+    }
+
+    function initFloatPosition() {
+        var saved = readSavedPosition();
+
+        if (saved && typeof saved.left === 'number' && typeof saved.top === 'number') {
+            setFloatPosition(saved.left, saved.top, false);
+        } else {
+            var rect = $root[0].getBoundingClientRect();
+            setFloatPosition(rect.left, rect.top, false);
+        }
+    }
+
+    function startDrag(event) {
+        if (event.button !== undefined && event.button !== 0) {
+            return;
+        }
+
+        var pointer = event.originalEvent;
+        var rect = $root[0].getBoundingClientRect();
+
+        dragState = {
+            pointerId: pointer.pointerId,
+            startX: pointer.clientX,
+            startY: pointer.clientY,
+            left: rect.left,
+            top: rect.top,
+            moved: false
+        };
+
+        $root.addClass('is-dragging');
+        if ($toggle[0].setPointerCapture && pointer.pointerId !== undefined) {
+            $toggle[0].setPointerCapture(pointer.pointerId);
+        }
+    }
+
+    function moveDrag(event) {
+        if (!dragState) {
+            return;
+        }
+
+        var pointer = event.originalEvent;
+        var dx = pointer.clientX - dragState.startX;
+        var dy = pointer.clientY - dragState.startY;
+
+        if (Math.abs(dx) + Math.abs(dy) > 5) {
+            dragState.moved = true;
+            suppressClick = true;
+            closePanel();
+        }
+
+        if (dragState.moved) {
+            event.preventDefault();
+            setFloatPosition(dragState.left + dx, dragState.top + dy, false);
+        }
+    }
+
+    function endDrag(event) {
+        if (!dragState) {
+            return;
+        }
+
+        if (dragState.moved) {
+            var rect = $root[0].getBoundingClientRect();
+            setFloatPosition(rect.left, rect.top, true);
+        }
+
+        $root.removeClass('is-dragging');
+        if ($toggle[0].releasePointerCapture && dragState.pointerId !== undefined) {
+            try {
+                $toggle[0].releasePointerCapture(dragState.pointerId);
+            } catch (error) {}
+        }
+
+        dragState = null;
+        setTimeout(function () {
+            suppressClick = false;
+        }, 0);
+    }
+
     $(function () {
         $root = $('#site-search-float');
         if (!$root.length) {
@@ -206,8 +339,13 @@
 
         buildIndex();
         render('');
+        initFloatPosition();
 
         $toggle.on('click', function () {
+            if (suppressClick) {
+                return;
+            }
+
             if ($root.hasClass('is-open')) {
                 closePanel();
             } else {
@@ -254,6 +392,14 @@
             if (!$root[0].contains(event.target)) {
                 closePanel();
             }
+        });
+
+        $toggle.on('pointerdown', startDrag);
+        $toggle.on('pointermove', moveDrag);
+        $toggle.on('pointerup pointercancel', endDrag);
+        $(window).on('resize', function () {
+            var rect = $root[0].getBoundingClientRect();
+            setFloatPosition(rect.left, rect.top, true);
         });
     });
 })(jQuery);
