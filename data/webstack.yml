@@ -393,6 +393,10 @@
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/ichip/doc
           description: 智能芯片与系统实践课程网站
+        - title: 大数据课程网站
+          logo: 大数据课程网站.ico
+          url: http://192.168.65.28:12345/user/tjbde261_yuyaoshen/lab
+          description: 同济大学大数据课程网站
         - title: 思政课程实践环节
           logo: 同济大学信息.png
           url: https://shsj.tongji.edu.cn/adminportal/#/app/app-k4rhx79m/sp_political_recognition_xjl9g5z_84_list?envType=prod
