@@ -124,16 +124,6 @@
       logo: n8n.jpg
       url:  http://101.35.157.169:5678/
       description: n8n - 工作流自动化工具。
-    - title: 1panel面板（国外服务器）
-      logo: 1panel.webp
-      url:  http://[2607:f130:0:174::ca5:58a6]:31072/978ee282b5
-      description: 国外服务器管理面板 - 1panel面板。
-    - title: 密码管理bitwarden
-      logo: bitwarden.webp
-      url:  https://pwd.yly113.de5.net/
-      description: 密码管理工具 - bitwarden。
-
-
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
