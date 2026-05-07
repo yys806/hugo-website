@@ -96,6 +96,10 @@
       url: https://www.bioitee.com
       qrcode: 智语知库.jpg
       description: 微信公众号：智语知库
+    - title: 镜室
+      logo: 镜室.png
+      url: https://skill-chat.cn/
+      description: 镜室 - Skill 在线对话平台
 
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
