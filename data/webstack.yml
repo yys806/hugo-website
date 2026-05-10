@@ -43,6 +43,10 @@
       logo: Gmail.png
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail - 在线邮箱服务。
+    - title: 网易邮箱
+      logo: 网易邮箱.ico
+      url: https://mail.163.com/
+      description: 网易 163 邮箱
     - title: YU邮箱
       logo: qq邮箱.png
       url: https://mail.970410.xyz/
@@ -484,14 +488,6 @@
 
     - term: AI实用工具
       links:
-        - title: AI订阅
-          logo: baibai.ico
-          url: https://xzfk.sharesai.xyz/cat/4
-          description: 买AI账号的地方
-        - title: 向子狸AI订阅
-          logo: 向子狸AI订阅.ico
-          url: https://xiangzili.xyz/
-          description: 买AI订阅的地方
         - title: LobeHub
           logo: lobehub-com.ico
           url: https://lobehub.com/
@@ -854,6 +850,10 @@
           logo: simple.webp
           url: https://simpleicons.org/
           description: simple icons - 免费图标资源。
+        - title: iconfont
+          logo: iconfont.ico
+          url: https://www.iconfont.cn/
+          description: iconfont - 阿里巴巴矢量图标库
         - title: firecrawl
           logo: fire.webp
           url: https://www.firecrawl.dev/
