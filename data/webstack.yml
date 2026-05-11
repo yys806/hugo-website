@@ -153,14 +153,6 @@
           logo: 清华大学.jpg
           url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20861/page.htm
           description: 清深电子通信工程项目
-        - title: 课题组介绍-交叉信息研究院
-          logo: iiis-tsinghua-edu-cn.png
-          url: https://iiis.tsinghua.edu.cn/kxyj/ktzjs.htm
-          description: 课题组介绍-交叉信息研究院 相关页面
-        - title: 课题组介绍-人工智能学院
-          logo: collegeai-tsinghua-edu-cn.png
-          url: https://collegeai.tsinghua.edu.cn/kxyj/ktzjs.htm
-          description: 课题组介绍-人工智能学院 相关页面
         - title: 电子信息（大模型科学与工程）
           logo: www-sigs-tsinghua-edu-cn.ico
           url: https://www.sigs.tsinghua.edu.cn/2025/0709/c1053a284124/page.htm
@@ -169,22 +161,6 @@
           logo: www-sigs-tsinghua-edu-cn.ico
           url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20864/page.htm
           description: 项目概况人工智能工程硕士项目属于我院“6+1”主题领域重点发展项目之一，依托自动化、计算。
-        - title: 清华深研院-中文信息（cbk）
-          logo: www-sigs-tsinghua-edu-cn.ico
-          url: https://www.sigs.tsinghua.edu.cn/cbk/main.htm
-          description: 清华大学
-        - title: 清华深研院-中文信息（yyj）
-          logo: www-sigs-tsinghua-edu-cn.ico
-          url: https://www.sigs.tsinghua.edu.cn/yyj/main.htm
-          description: 清华大学
-        - title: AI Agent课题组-人工智能学院
-          logo: collegeai-tsinghua-edu-cn.png
-          url: https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm
-          description: AI Agent课题组-人工智能学院 相关页面
-        - title: 清华大学具身智能实验室-交叉信息研究院
-          logo: iiis-tsinghua-edu-cn.png
-          url: https://iiis.tsinghua.edu.cn/kxyj/ktzjs/qhdxjsznsys.htm
-          description: 清华大学具身智能实验室-交叉信息研究院 相关页面
         - title: 北京大学研究生报名系统
           logo: 北大.png
           url: https://admission.pku.edu.cn/applications/
@@ -197,14 +173,6 @@
           logo: 北大.png
           url: https://admission.pkusz.edu.cn/
           description: 北京大学深圳研究院网站
-        - title: 北京大学深圳研究院-信息工程学院
-          logo: 北大.png
-          url: https://www.ece.pku.edu.cn/index.htm
-          description: 北京大学深圳研究院信息工程学院网站
-        - title: 北京大学深圳研究院-科学智能学院
-          logo: 北大.png
-          url: https://ai4s.pkusz.edu.cn/index.htm
-          description: 北京大学深圳研究院科学智能学院网站
         - title: PCNI Homepage
           logo: pcni-pku-edu-cn.jpg
           url: http://pcni.pku.edu.cn/cn/homepage.html
@@ -229,14 +197,6 @@
           logo: 上海交通大学.webp
           url: https://yzb.sjtu.edu.cn/
           description: 上海交通大学研究生招生信息网
-        - title: Jia Li's Homepage
-          logo: default.webp
-          url: https://lj2lijia.github.io/
-          description: Jia Li's Homepage 相关页面
-        - title: -E- Lab
-          logo: maureenzou-github-io.png
-          url: https://maureenzou.github.io/lab.html
-          description: -E- Lab 相关页面
     - term: 科研
       links:
         - title: 谷歌学术
