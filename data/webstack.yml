@@ -120,14 +120,6 @@
       logo: 宝塔.webp
       url:  https://101.35.157.169:40523/0a703477
       description: 国内服务器管理面板 - 宝塔面板。
-    - title: halo博客后台
-      logo: halo.webp
-      url:  http://101.35.157.169:8080/console/dashboard
-      description: halo博客管理后台
-    - title: halo博客
-      logo: halo.webp
-      url:  http://101.35.157.169:8080/
-      description: halo博客
     - title: n8n
       logo: n8n.jpg
       url:  http://101.35.157.169:5678/
