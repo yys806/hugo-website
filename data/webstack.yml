@@ -47,6 +47,10 @@
       logo: 网易邮箱.ico
       url: https://mail.163.com/
       description: 网易 163 邮箱
+    - title: 飞书云文档
+      logo: 飞书云文档.ico
+      url: https://icnrjjpowor2.feishu.cn/
+      description: 飞书云文档
     - title: YU邮箱
       logo: qq邮箱.png
       url: https://mail.970410.xyz/
@@ -922,6 +926,10 @@
           logo: SMS.svg
           url: https://sms-activate.io/
           description: 海外电话号码接码平台。
+        - title: Hero SMS
+          logo: SMS.svg
+          url: https://hero-sms.com/
+          description: Hero SMS - 接码平台
 
     - term: 实用小工具
       links:
