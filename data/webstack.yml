@@ -120,14 +120,18 @@
       logo: cloudcone.png
       url: https://app.cloudcone.com/vps/118219/manage
       description: 国外服务器提供商 - cloudcone。
-    - title: 宝塔面板（国内服务器）
-      logo: 宝塔.webp
-      url:  https://101.35.157.169:40523/0a703477
-      description: 国内服务器管理面板 - 宝塔面板。
+    - title: 京东云
+      logo: JDC.png
+      url: https://lavm-console.jdcloud.com/lavm/list?regionId=cn-north-1
+      description: 京东云轻量云主机控制台
     - title: n8n
       logo: n8n.jpg
       url:  http://101.35.157.169:5678/
       description: n8n - 工作流自动化工具。
+    - title: Discord机器人
+      logo: discord.png
+      url: https://robot.yly113.de5.net/
+      description: 珅哥的 Discord 机器人
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
