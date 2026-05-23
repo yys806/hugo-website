@@ -108,6 +108,10 @@
       logo: 镜室.png
       url: https://skill-chat.cn/
       description: 镜室 - Skill 在线对话平台
+    - title: Resend
+      logo: resend.png
+      url: https://resend.com/emails
+      description: Resend - Email sending platform
 
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
@@ -128,6 +132,10 @@
       logo: discord.png
       url: https://robot.yly113.de5.net/
       description: 珅哥的 Discord 机器人
+    - title: openclaw小龙虾
+      logo: openclaw.ico
+      url: http://101.35.157.169:18789/
+      description: openclaw小龙虾 - 服务器相关工具
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
