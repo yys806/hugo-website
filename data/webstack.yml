@@ -19,7 +19,7 @@
       logo: love.jpg
       url: https://zchyys.de5.net/
       description: Rainbow & shenshen 情侣博客网站
-    - title: 4周年纪念站
+    - title: 彩珅小屋
       logo: love.jpg
       url: https://rainbow-shen.cn/
       description: Rainbow和Shenshen的4周年纪念网站
@@ -99,11 +99,6 @@
       logo: shenyu.png
       url: https://shen806.us.ci
       description: 珅玉定制前台
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: 智语知库.jpg
-      description: 微信公众号：智语知库
     - title: 镜室
       logo: 镜室.png
       url: https://yly113.de5.net/
