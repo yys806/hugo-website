@@ -119,10 +119,6 @@
       logo: JDC.png
       url: https://lavm-console.jdcloud.com/lavm/list?regionId=cn-north-1
       description: 京东云轻量云主机控制台
-    - title: Discord机器人
-      logo: discord.png
-      url: https://robot.yly113.de5.net/
-      description: 珅哥的 Discord 机器人
     - title: openclaw小龙虾
       logo: openclaw.ico
       url: http://101.35.157.169:18789/
