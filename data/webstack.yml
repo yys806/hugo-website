@@ -19,10 +19,14 @@
       logo: love.jpg
       url: https://zchyys.de5.net/
       description: Rainbow & shenshen 情侣博客网站
-    - title: 彩珅小屋
+    - title: 彩珅恋爱墙
       logo: love.jpg
       url: https://rainbow-shen.cn/
       description: Rainbow和Shenshen的4周年纪念网站
+    - title: RainbowSeek
+      logo: rainbowseek.svg
+      url: https://rainbowseek.cc.cd/
+      description: 为 Rainbow 开发的类 DeepSeek 网站
     - title: 微信公众平台
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
@@ -123,6 +127,14 @@
       logo: openclaw.ico
       url: http://101.35.157.169:18789/
       description: openclaw小龙虾 - 服务器相关工具
+    - title: Shen AI中转站
+      logo: shen-ai-transfer.png
+      url: https://skill-chat.cn/
+      description: Shen AI 中转站
+    - title: Shen AI总览站
+      logo: shen-ai-overview.svg
+      url: https://api-key-tester-shen.netlify.app/
+      description: Shen AI 总览站
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
