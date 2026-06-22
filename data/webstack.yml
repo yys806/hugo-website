@@ -123,10 +123,6 @@
       logo: JDC.png
       url: https://lavm-console.jdcloud.com/lavm/list?regionId=cn-north-1
       description: 京东云轻量云主机控制台
-    - title: openclaw小龙虾
-      logo: openclaw.ico
-      url: http://101.35.157.169:18789/
-      description: openclaw小龙虾 - 服务器相关工具
     - title: Shen AI中转站
       logo: shen-ai-transfer.png
       url: https://skill-chat.cn/
