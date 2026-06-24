@@ -136,42 +136,6 @@
   list:
     - term: 保研
       links:
-        - title: 清华大学研究生报名系统
-          logo: 清华大学.jpg
-          url: https://yzbm.tsinghua.edu.cn/ndLogin
-          description: 清华大学研究生报名系统
-        - title: 清华大学本部
-          logo: 清华大学.jpg
-          url: https://yz.tsinghua.edu.cn/
-          description: 清华大学本部网站
-        - title: 清华大学深圳研究院
-          logo: 清华大学.jpg
-          url: https://www.sigs.tsinghua.edu.cn/
-          description: 清华大学深圳研究院研究生招生信息网
-        - title: 清深电子通信工程项目
-          logo: 清华大学.jpg
-          url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20861/page.htm
-          description: 清深电子通信工程项目
-        - title: 电子信息（大模型科学与工程）
-          logo: www-sigs-tsinghua-edu-cn.ico
-          url: https://www.sigs.tsinghua.edu.cn/2025/0709/c1053a284124/page.htm
-          description: 项目简介以及培养目标电子信息（大模型科学与工程）项目是在当前人工智能行业与大模型技术快速。
-        - title: 电子信息（人工智能）
-          logo: www-sigs-tsinghua-edu-cn.ico
-          url: https://www.sigs.tsinghua.edu.cn/2020/0922/c1053a20864/page.htm
-          description: 项目概况人工智能工程硕士项目属于我院“6+1”主题领域重点发展项目之一，依托自动化、计算。
-        - title: 北京大学研究生报名系统
-          logo: 北大.png
-          url: https://admission.pku.edu.cn/applications/
-          description: 北京大学研究生报名系统
-        - title: 北京大学本部
-          logo: 北大.png
-          url: https://admission.pku.edu.cn/
-          description: 北京大学本部网站
-        - title: 北京大学深圳研究院
-          logo: 北大.png
-          url: https://admission.pkusz.edu.cn/
-          description: 北京大学深圳研究院网站
         - title: PCNI Homepage
           logo: pcni-pku-edu-cn.jpg
           url: http://pcni.pku.edu.cn/cn/homepage.html
@@ -180,22 +144,26 @@
           logo: ele-pku-edu-cn.png
           url: https://ele.pku.edu.cn/info/1121/2495.htm
           description: 职称：研究员、助理教授导师类别：博士生导师研究所：信息与通信研究所招生专业：信号与信息处。
-        - title: 蔡雪松-北京大学电子学院
+        - title: 北大电子学院夏令营
           logo: ele-pku-edu-cn.png
-          url: https://ele.pku.edu.cn/info/1121/3544.htm
-          description: 职称：研究员、预聘副教授导师类别：博士生导师研究所：信息与通信研究所研究领域：无线通信办。
-        - title: 软科中国大学排名
-          logo: 软科.svg
-          url: https://www.shanghairanking.cn/rankings
-          description: 中国大学排名
-        - title: 浙江大学研究生招生信息网
+          url: https://ele.pku.edu.cn/info/1232/5845.htm
+          description: 北京大学电子学院夏令营通知
+        - title: 清华陈鑫磊
+          logo: 清华大学.jpg
+          url: https://www.sigs.tsinghua.edu.cn/cxl/main.htm
+          description: 清华大学深圳国际研究生院陈鑫磊主页
+        - title: 清华预推免报名
+          logo: 清华大学.jpg
+          url: https://yz.tsinghua.edu.cn/info/1024/3234.htm
+          description: 清华大学预推免报名通知
+        - title: 北大研招网
+          logo: 北大.png
+          url: https://admission.pku.edu.cn/applications/index.jsp
+          description: 北京大学研究生招生网
+        - title: 浙大研招网
           logo: 浙江大学.jpg
-          url: http://www.grs.zju.edu.cn/yjszs/
-          description: 浙江大学研究生招生信息网
-        - title: 上海交通大学研究生招生信息网
-          logo: 上海交通大学.webp
-          url: https://yzb.sjtu.edu.cn/
-          description: 上海交通大学研究生招生信息网
+          url: https://yjsy.zju.edu.cn/zs/home
+          description: 浙江大学研究生招生网
     - term: 科研
       links:
         - title: 谷歌学术
