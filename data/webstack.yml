@@ -123,10 +123,10 @@
       logo: JDC.png
       url: https://lavm-console.jdcloud.com/lavm/list?regionId=cn-north-1
       description: 京东云轻量云主机控制台
-    - title: Shen AI中转站
+    - title: Shen Core站
       logo: shen-ai-transfer.png
-      url: https://skill-chat.cn/
-      description: Shen AI 中转站
+      url: https://shencore.cc.cd/
+      description: 内部人员交流站
     - title: Shen AI总览站
       logo: shen-ai-overview.svg
       url: https://api-key-tester-shen.netlify.app/
