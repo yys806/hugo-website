@@ -178,6 +178,10 @@
           logo: 谷歌学术.webp
           url: https://scholar.google.com/?hl=zh-cn
           description: 谷歌学术。
+        - title: arXiv
+          logo: arxiv.ico
+          url: https://arxiv.org/user/
+          description: arXiv 用户中心
         - title: Overleaf
           logo: overleaf.webp
           url: https://www.overleaf.com/
