@@ -3,6 +3,10 @@
 - taxonomy: 个人使用
   icon: far fa-star
   links: 
+    - title: szq821
+      logo: 梯子后台.svg
+      url: https://szq821.cc.cd/
+      description: szq821
     - title: 作者个人博客
       logo: 个人博客.png
       url: https://yys806.github.io/
@@ -119,6 +123,10 @@
       logo: cloudcone.png
       url: https://app.cloudcone.com/vps/118219/manage
       description: 国外服务器提供商 - cloudcone。
+    - title: DediRock
+      logo: dedirock.png
+      url: https://billing.dedirock.com/clientarea.php?action=productdetails&id=21358
+      description: 国外服务器
     - title: 京东云
       logo: JDC.png
       url: https://lavm-console.jdcloud.com/lavm/list?regionId=cn-north-1
@@ -131,6 +139,10 @@
       logo: shen-ai-overview.svg
       url: https://api-key-tester-shen.netlify.app/
       description: Shen AI 总览站
+    - title: 国内服务器-小模型
+      logo: shen-ai-transfer.png
+      url: https://skill-chat.cn/
+      description: 国内服务器小模型站点
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
@@ -140,14 +152,6 @@
           logo: pcni-pku-edu-cn.jpg
           url: http://pcni.pku.edu.cn/cn/homepage.html
           description: Homepage 相关页面
-        - title: 张嘉楠-北京大学电子学院
-          logo: ele-pku-edu-cn.png
-          url: https://ele.pku.edu.cn/info/1121/2495.htm
-          description: 职称：研究员、助理教授导师类别：博士生导师研究所：信息与通信研究所招生专业：信号与信息处。
-        - title: 北大电子学院夏令营
-          logo: ele-pku-edu-cn.png
-          url: https://ele.pku.edu.cn/info/1232/5845.htm
-          description: 北京大学电子学院夏令营通知
         - title: 清华陈鑫磊
           logo: 清华大学.jpg
           url: https://www.sigs.tsinghua.edu.cn/cxl/main.htm
@@ -160,10 +164,14 @@
           logo: 北大.png
           url: https://admission.pku.edu.cn/applications/index.jsp
           description: 北京大学研究生招生网
-        - title: 浙大研招网
-          logo: 浙江大学.jpg
-          url: https://yjsy.zju.edu.cn/zs/home
-          description: 浙江大学研究生招生网
+        - title: LAMDA保研通知
+          logo: lamda2027.png
+          url: https://www.lamda.nju.edu.cn/recruit-2027/recruit-2027.html
+          description: LAMDA 2027 保研通知
+        - title: LAMDA报名平台
+          logo: lamda2027.png
+          url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FLAMDA2027%2FSubmission%2FIndex
+          description: LAMDA 2027 报名平台
     - term: 科研
       links:
         - title: 谷歌学术
@@ -230,13 +238,6 @@
           logo: Zotero.png
           url: https://template-selector.ieee.org/secure/templateSelector/publicationType
           description: IEEE Template Selector - IEEE论文模板选择器。
-    - term: 其他
-      links:
-        - title: 中国版权保护中心
-          logo: 中国版权.gif
-          url: https://www.ccopyright.com.cn/
-          description: 中国版权保护中心网站
-    
 - taxonomy: 办公
   icon: fas fa-flask fa-lg
   list:
@@ -797,6 +798,14 @@
           logo: www-figma-com.png
           url: https://www.figma.com/
           description: Figma 协作设计平台。
+        - title: Motionsites
+          logo: motionsites.ico
+          url: https://motionsites.ai/
+          description: UI 动效网站设计
+        - title: 秒哒
+          logo: miaoda.png
+          url: https://www.miaoda.cn/projects/app-brqji7jm3xtt
+          description: 秒哒 - 低代码平台
         - title: Replicate
           logo: replicate-com.png
           url: https://replicate.com/
@@ -948,6 +957,10 @@
           logo: IFIXIT.ico
           url: https://zh.ifixit.com/
           description: IFIXIT - 维修指南和工具
+        - title: HireMe面试助手
+          logo: hireme.png
+          url: https://interviewasssistant.com/zh
+          description: HireMe 面试助手
         - title: 美国地址生成器
           logo: 美国地址.jpg
           url: https://usaddressgen.com/
