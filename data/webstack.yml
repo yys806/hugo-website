@@ -3,10 +3,6 @@
 - taxonomy: 个人使用
   icon: far fa-star
   links: 
-    - title: szq821
-      logo: 梯子后台.svg
-      url: https://szq821.cc.cd/
-      description: szq821
     - title: 作者个人博客
       logo: 个人博客.png
       url: https://yys806.github.io/
@@ -111,6 +107,10 @@
       logo: 镜室.png
       url: https://yly113.de5.net/
       description: 镜室 - Skill 在线对话平台
+    - title: 梯子后台
+      logo: 梯子后台.svg
+      url: https://szq821.de5.net/admin
+      description: 梯子网站管理后台
 
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
@@ -343,6 +343,9 @@
           url: https://cas.ymu.edu.cn/
           description: 云南民族大学统一门户
 
+- taxonomy: 人工智能
+  icon: fas fa-robot fa-lg
+  list:
     - term: 国内外AI平台
       links:
         - title: Hugging Face
@@ -504,6 +507,10 @@
           logo: 同事Skill网站.svg
           url: https://titanwings.github.io/colleague-skill-site/
           description: 同事 .skill 网站
+        - title: HireMe面试助手
+          logo: hireme.png
+          url: https://interviewasssistant.com/zh
+          description: HireMe 面试助手
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -768,7 +775,7 @@
 - taxonomy: 实用工具
   icon: fas fa-tools fa-lg
   list: 
-    - term: 网站设计
+    - term: 网站开发
       links:
         - title: Stripe Dashboard
           logo: dashboard-stripe-com.ico
@@ -830,6 +837,9 @@
           logo: supabase.jpg
           url: https://supabase.com/dashboard/project/vhyrnavycheywmshooyj
           description: 完美后端
+
+    - term: 部署、域名与网络
+      links:
         - title: namesilo
           logo: namesilo.webp
           url: https://www.namesilo.com/
@@ -882,6 +892,9 @@
           logo: cliproxy.jpg
           url: https://dash.cliproxy.com/cli/static-proxies
           description: 纯净住宅IP
+
+    - term: 网络服务
+      links:
         - title: 个人订阅链接
           logo: 同济大学信息.png
           url: https://shen1.yaoshen806.sbs/f9f4abe6-9d2d-4c6e-8f00-d9aff3f6a6ef
@@ -894,10 +907,6 @@
           logo: 机场.svg
           url: https://mitce.net/clientarea.php
           description: 稳定机场。
-        - title: 梯子后台
-          logo: 梯子后台.svg
-          url: https://szq821.de5.net/admin
-          description: 梯子网站管理后台
         - title: 小机场
           logo: Vercel.ico
           url: https://xs-us.xyz/dashboard
@@ -906,6 +915,9 @@
           logo: 贝锐.png
           url: https://console-v2.oray.com/
           description: 贝锐花生壳 - 内网穿透服务。
+
+    - term: 通讯与验证
+      links:
         - title: sms接码平台
           logo: SMS.svg
           url: https://sms-activate.io/
@@ -957,10 +969,6 @@
           logo: IFIXIT.ico
           url: https://zh.ifixit.com/
           description: IFIXIT - 维修指南和工具
-        - title: HireMe面试助手
-          logo: hireme.png
-          url: https://interviewasssistant.com/zh
-          description: HireMe 面试助手
         - title: 美国地址生成器
           logo: 美国地址.jpg
           url: https://usaddressgen.com/
