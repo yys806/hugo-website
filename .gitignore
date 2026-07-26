@@ -1,0 +1,11 @@
+# Hugo 构建锁文件(每次构建自动生成,无需入库)
+.hugo_build.lock
+
+# Hugo 资源缓存
+resources/_gen/
+
+# 操作系统临时文件
+.DS_Store
+Thumbs.db
+
+# 注意:public/ 与 hugo.exe 为有意跟踪的内容,请勿加入忽略列表
