@@ -19,10 +19,22 @@
       logo: love.jpg
       url: https://zchyys.de5.net/
       description: Rainbow和Shenshen的4周年纪念网站
+    - title: RainbowSeek
+      logo: rainbowseek.svg
+      url: https://rainbowseek.cc.cd/
+      description: 为 Rainbow 开发的类 DeepSeek 网站
     - title: 微信公众平台
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 微信公众平台。
+    - title: 深度研究
+      logo: 深度研究.ico
+      url: http://shen-ai.de5.net/
+      description: 深度研究网站
+    - title: TV
+      logo: TV.webp
+      url: https://shen806.de5.net/
+      description: 个人TV 网站
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
@@ -43,6 +55,54 @@
       logo: qq邮箱.png
       url: https://mail.970410.xyz/
       description: 临时邮箱
+    - title: Nexus Terminal
+      logo: nexus.jpg
+      url: https://shen-play.de5.net/
+      description: 珅哥自己的乐趣极客网站
+    - title: HomePage
+      logo: homepage.jpg
+      url: https://shen806.dpdns.org/
+      description: 个人近期状态主页
+    - title: Fortress
+      logo: fortress.jpg
+      url: https://shentv.dpdns.org/
+      description: 个人本地信息存储
+    - title: 428806二维码制作小工具
+      logo: qr-shen.png
+      url: https://428806.xyz/
+      description: 自己开发的二维码制作小工具
+    - title: Photo-shen
+      logo: 珅哥GPT.png
+      url: https://shen-photo.de5.net/
+      description: 自己开发的文档去黑边工具
+    - title: AI算命
+      logo: 珅哥GPT.png
+      url: https://fpga.de5.net/
+      description: 珅哥开发的AI算命小工具
+    - title: Shen's tools
+      logo: 珅哥GPT.png
+      url: http://riscv.de5.net/
+      description: 珅哥工具合集
+    - title: MathSnap
+      logo: 珅哥GPT.png
+      url: https://2352396.de5.net/
+      description: 开发的论文小工具
+    - title: BBU Analysis Site
+      logo: bbu-analysis-site-netlify-app.svg
+      url: https://bbu-analysis-site.netlify.app/
+      description: BBU 分析与展示网站
+    - title: 珅玉定制管理后台
+      logo: shenyu.png
+      url: https://shen806.us.ci/admin
+      description: 珅玉定制管理后台
+    - title: 珅玉定制
+      logo: shenyu.png
+      url: https://shen806.us.ci
+      description: 珅玉定制前台
+    - title: 镜室
+      logo: 镜室.png
+      url: https://yly113.de5.net/
+      description: 镜室 - Skill 在线对话平台
     - title: 梯子后台
       logo: 梯子后台.svg
       url: https://szq821.de5.net/admin
@@ -73,12 +133,8 @@
       description: 内部人员交流站
     - title: Shen AI总览站
       logo: shen-ai-overview.svg
-      url: https://shencore.cc.cd/api-tester/
-      description: API Key 连通性测试与订阅价格
-    - title: 收支看板
-      logo: shen-ai-transfer.png
-      url: https://shencore.cc.cd/dashboard/
-      description: 中转站收支统计看板
+      url: https://api-key-tester-shen.netlify.app/
+      description: Shen AI 总览站
     - title: 国内服务器-小模型
       logo: shen-ai-transfer.png
       url: https://skill-chat.cn/
