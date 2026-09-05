@@ -143,6 +143,10 @@
       logo: shen-ai-transfer.png
       url: https://skill-chat.cn/
       description: 国内服务器小模型站点
+    - title: LeoAI造物局
+      logo: leoai-mark.png
+      url: https://leoai.cc.cd/
+      description: 闲鱼接单业务官网｜AI技术服务
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
