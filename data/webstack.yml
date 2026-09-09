@@ -3,6 +3,10 @@
 - taxonomy: 个人使用
   icon: far fa-star
   links: 
+    - title: LeoAI造物局
+      logo: leoai-mark.png
+      url: https://leoai.cc.cd/
+      description: 闲鱼接单业务官网｜AI技术服务
     - title: 作者个人博客
       logo: 个人博客.png
       url: https://yys806.github.io/
@@ -143,10 +147,6 @@
       logo: shen-ai-transfer.png
       url: https://skill-chat.cn/
       description: 国内服务器小模型站点
-    - title: LeoAI造物局
-      logo: leoai-mark.png
-      url: https://leoai.cc.cd/
-      description: 闲鱼接单业务官网｜AI技术服务
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
@@ -156,28 +156,18 @@
           logo: pcni-pku-edu-cn.jpg
           url: http://pcni.pku.edu.cn/cn/homepage.html
           description: Homepage 相关页面
-        - title: 清华陈鑫磊
-          logo: 清华大学.jpg
-          url: https://www.sigs.tsinghua.edu.cn/cxl/main.htm
-          description: 清华大学深圳国际研究生院陈鑫磊主页
-        - title: 清华预推免报名
-          logo: 清华大学.jpg
-          url: https://yz.tsinghua.edu.cn/info/1024/3234.htm
-          description: 清华大学预推免报名通知
         - title: 北大研招网
           logo: 北大.png
           url: https://admission.pku.edu.cn/applications/index.jsp
           description: 北京大学研究生招生网
-        - title: LAMDA保研通知
-          logo: lamda2027.png
-          url: https://www.lamda.nju.edu.cn/recruit-2027/recruit-2027.html
-          description: LAMDA 2027 保研通知
-        - title: LAMDA报名平台
-          logo: lamda2027.png
-          url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FLAMDA2027%2FSubmission%2FIndex
-          description: LAMDA 2027 报名平台
-    - term: 科研
-      links:
+        - title: 研究生申请服务系统
+          logo: 清华大学.jpg
+          url: https://yzbm.tsinghua.edu.cn/index
+          description: 清华大学研究生申请服务系统
+        - title: 综合信息平台
+          logo: 清华大学.jpg
+          url: https://yzbm.tsinghua.edu.cn/publish/s01/s0101/list?yxsdm=599
+          description: 清华深研院综合信息平台
         - title: 谷歌学术
           logo: 谷歌学术.webp
           url: https://scholar.google.com/?hl=zh-cn
@@ -190,10 +180,6 @@
           logo: overleaf.webp
           url: https://www.overleaf.com/
           description: Overleaf - 在线LaTeX编辑器。
-        - title: Latex入门教程
-          logo: overleaf.webp
-          url: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
-          description: Latex入门教程 - 30分钟学会LaTeX。
         - title: 同济大学图书馆
           logo: 同济大学图书馆.jpg
           url: https://www.lib.tongji.edu.cn/
@@ -271,14 +257,18 @@
           logo: 同济大学一网通办.png
           url: https://all.tongji.edu.cn
           description: 同济大学一网通办网站
-        - title: 同济大学舟济社区
-          logo: 同济大学舟济社区.png
-          url: https://home.tongji.icu/
-          description: 同济大学舟济社区网站
-        - title: 同济大学乌龙茶
-          logo: 同济大学乌龙茶.ico
-          url: https://1.tongji.icu/
-          description: 同济大学乌龙茶网站
+        - title: 同济智信云
+          logo: 同济大学信息.png
+          url: https://ceiex.tongji.edu.cn/
+          description: 同济大学智信云平台
+        - title: YourTJ Forum
+          logo: 同济大学信息.png
+          url: https://f.yourtj.de/
+          description: 同济学生论坛
+        - title: 同济大学邮件系统
+          logo: 同济大学信息.png
+          url: https://mail.tongji.edu.cn/
+          description: 同济大学邮件系统
         - title: 同济大学电子信息工程学院23级培养方案
           logo: 同济大学信息.png
           url: https://jwc.tongji.edu.cn/0e/80/c34206a331392/page.psp
@@ -299,30 +289,6 @@
           logo: 同济大学信息.png
           url: https://see.tongji.edu.cn/xsgz/bks/gzzd.htm
           description: 同济电院竞赛名单和奖学金细则，优秀毕业生细则网站
-        - title: 济你太美
-          logo: 同济大学信息.png
-          url: https://www.tongji.icu/
-          description: 同济大学网址导航
-        - title: 智慧树网
-          logo: 智慧树网.ico
-          url: https://www.zhihuishu.com/
-          description: 智慧树网
-        - title: 网上共青团
-          logo: 网上共青团.png
-          url: https://zhtj.youth.cn/zhtj/mine/
-          description: 网上共青团
-        - title: 同济算力平台
-          logo: 同济大学信息.png
-          url: http://10.60.102.53/
-          description: 同济算力平台 - 提供算力服务。
-        - title: 印象同济
-          logo: 同济大学1系统.jpg
-          url: https://photo.tongji.edu.cn/
-          description: 同济大学媒体资源下载网站
-        - title: 华为云
-          logo: 华为云.png
-          url: https://console.huaweicloud.com/modelarts/?locale=zh-cn&agencyId=9193b08c5af845478a2278e69de48e20&region=cn-north-4#/dashboard
-          description: 信号处理与智能感知
         - title: 综合设计实践A
           logo: gitlab.webp
           url: https://git.tongji.edu.cn/cdpa/doc
@@ -467,6 +433,10 @@
           logo: 椒图.webp
           url: https://www.jiaotuai.cn/?ref=imyshare
           description: AI绘画平台
+        - title: Tripo AI
+          logo: 同济正版.jpg
+          url: https://studio.tripo3d.com/
+          description: AI 3D 建模生成平台
         - title: Midjourney
           logo: midjourney.png
           url: https://www.midjourney.com/explore?tab=video_top
