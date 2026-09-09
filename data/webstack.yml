@@ -3,10 +3,6 @@
 - taxonomy: 个人使用
   icon: far fa-star
   links: 
-    - title: LeoAI造物局
-      logo: leoai-mark.png
-      url: https://leoai.cc.cd/
-      description: 闲鱼接单业务官网｜AI技术服务
     - title: 作者个人博客
       logo: 个人博客.png
       url: https://yys806.github.io/
@@ -115,6 +111,10 @@
       logo: 梯子后台.svg
       url: https://szq821.de5.net/admin
       description: 梯子网站管理后台
+    - title: LeoAI造物局
+      logo: leoai-mark.png
+      url: https://leoai.cc.cd/
+      description: 闲鱼接单业务官网｜AI技术服务
 
 - taxonomy: 服务器相关
   icon: fas fa-tools fa-lg
@@ -161,13 +161,15 @@
           url: https://admission.pku.edu.cn/applications/index.jsp
           description: 北京大学研究生招生网
         - title: 研究生申请服务系统
-          logo: 清华大学.jpg
+          logo: yzbm.png
           url: https://yzbm.tsinghua.edu.cn/index
           description: 清华大学研究生申请服务系统
         - title: 综合信息平台
-          logo: 清华大学.jpg
+          logo: yzbm.png
           url: https://yzbm.tsinghua.edu.cn/publish/s01/s0101/list?yxsdm=599
           description: 清华深研院综合信息平台
+    - term: 科研
+      links:
         - title: 谷歌学术
           logo: 谷歌学术.webp
           url: https://scholar.google.com/?hl=zh-cn
@@ -258,15 +260,15 @@
           url: https://all.tongji.edu.cn
           description: 同济大学一网通办网站
         - title: 同济智信云
-          logo: 同济大学信息.png
+          logo: ceiex.png
           url: https://ceiex.tongji.edu.cn/
           description: 同济大学智信云平台
         - title: YourTJ Forum
-          logo: 同济大学信息.png
+          logo: yourtj.png
           url: https://f.yourtj.de/
           description: 同济学生论坛
         - title: 同济大学邮件系统
-          logo: 同济大学信息.png
+          logo: tongji-mail.png
           url: https://mail.tongji.edu.cn/
           description: 同济大学邮件系统
         - title: 同济大学电子信息工程学院23级培养方案
@@ -434,7 +436,7 @@
           url: https://www.jiaotuai.cn/?ref=imyshare
           description: AI绘画平台
         - title: Tripo AI
-          logo: 同济正版.jpg
+          logo: tripo.png
           url: https://studio.tripo3d.com/
           description: AI 3D 建模生成平台
         - title: Midjourney
