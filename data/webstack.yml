@@ -168,6 +168,10 @@
           logo: yzbm.png
           url: https://yzbm.tsinghua.edu.cn/publish/s01/s0101/list?yxsdm=599
           description: 清华深研院综合信息平台
+        - title: 国家推免系统
+          logo: chsi.png
+          url: https://yz.chsi.com.cn/tm
+          description: 全国推免服务系统（教育部）
     - term: 科研
       links:
         - title: 谷歌学术
@@ -208,7 +212,7 @@
           description: 优云智算 - 租算力平台
         - title: Z-library
           logo: zl.png
-          url: https://zh.101-e.ru/
+          url: https://zh.z-lib.sk/?ts=0459
           description: 全球最大电子书平台
         - title: 玄策
           logo: xuance.webp
@@ -234,6 +238,10 @@
           logo: Zotero.png
           url: https://template-selector.ieee.org/secure/templateSelector/publicationType
           description: IEEE Template Selector - IEEE论文模板选择器。
+        - title: Spatial Bias in VLMs
+          logo: openreview.png
+          url: https://openreview.net/forum?id=dQF4SKZs0i
+          description: 论文：Spatial Bias in Vision Language Models（OpenReview）
 - taxonomy: 办公
   icon: fas fa-flask fa-lg
   list:
@@ -630,7 +638,7 @@
           description: 资料大全
         - title: Z-library
           logo: zlibrary.svg
-          url: https://zh.101-e.ru/
+          url: https://zh.z-lib.sk/?ts=0459
           description: 全球最大电子书平台
         - title: 初高中资料
           logo: txwd.png
