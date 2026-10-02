@@ -151,6 +151,10 @@
       logo: shen-monitor.svg
       url: https://shen-ai.cc.cd/monitor/
       description: 服务器与站点监控看板（S2/S4 服务 + 全部上线站点，5h/24h/7d/30d）
+    - title: 我错了
+      logo: iamsorry.svg
+      url: https://iamsorry.cc.cd/
+      description: 吵架事件记录 · 私人站点
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:

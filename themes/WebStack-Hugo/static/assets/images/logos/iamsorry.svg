@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="iaBg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#FFAFCB"/>
+      <stop offset="0.5" stop-color="#FF8AAF"/>
+      <stop offset="1" stop-color="#F76A96"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 圆角方形底：粉色渐变（比上一版加深一档，保证小尺寸对比） -->
+  <rect width="64" height="64" rx="15" fill="url(#iaBg)"/>
+  <rect x="1.6" y="1.6" width="60.8" height="60.8" rx="13.4" fill="none"
+        stroke="#FFFFFF" stroke-opacity="0.42" stroke-width="3.2"/>
+
+  <!-- 心：纯白、放大、无描边细节（24px 也认得出） -->
+  <path d="M32 52.6C32 52.6 11.2 39 11.2 25.4C11.2 17.8 16.8 13.2 22.5 13.2C27 13.2 30.4 16.2 32 20.3C33.6 16.2 37 13.2 41.5 13.2C47.2 13.2 52.8 17.8 52.8 25.4C52.8 39 32 52.6 32 52.6Z"
+        fill="#FFFFFF"/>
+
+  <!-- 缝合线：斜穿心口的针脚（针距均匀、加粗，缩小后仍可辨） -->
+  <g transform="rotate(-24 32 29.4)">
+    <line x1="17.4" y1="29.4" x2="46.6" y2="29.4" stroke="#FFD2E1" stroke-width="5.2" stroke-linecap="round"/>
+    <line x1="17.4" y1="29.4" x2="46.6" y2="29.4" stroke="#D9527F" stroke-width="2.4" stroke-linecap="round"/>
+    <g stroke="#D9527F" stroke-width="2.6" stroke-linecap="round">
+      <line x1="22.6" y1="25.2" x2="22.6" y2="33.6"/>
+      <line x1="29"   y1="25.2" x2="29"   y2="33.6"/>
+      <line x1="35.4" y1="25.2" x2="35.4" y2="33.6"/>
+      <line x1="41.8" y1="25.2" x2="41.8" y2="33.6"/>
+    </g>
+  </g>
+</svg>
