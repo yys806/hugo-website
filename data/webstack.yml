@@ -19,10 +19,6 @@
       logo: 个人介绍.png
       url: https://zch428.de5.net/
       description: 彩虹个人介绍网站
-    - title: 彩珅恋爱墙
-      logo: love.jpg
-      url: https://zchyys.de5.net/
-      description: Rainbow和Shenshen的4周年纪念网站
     - title: RainbowSeek
       logo: rainbowseek.svg
       url: https://rainbowseek.cc.cd/
@@ -155,6 +151,10 @@
       logo: iamsorry.svg
       url: https://iamsorry.cc.cd/
       description: 吵架事件记录 · 私人站点
+    - title: 彩珅恋爱墙
+      logo: love.jpg
+      url: https://zchyys.de5.net/
+      description: Rainbow和Shenshen的4周年纪念网站
 - taxonomy: 研究生
   icon: far fa-folder-open fa-lg
   list:
