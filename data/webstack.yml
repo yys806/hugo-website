@@ -619,10 +619,6 @@
           logo: n网.png
           url: https://www.nexusmods.com/
           description: 游戏模组网站。
-        - title: 珅-短剧库
-          logo: TV.webp
-          url: https://shen-ai.cc.cd/dramas/
-          description: 自己收录的抖音短剧总目录，点开直接看。
 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
