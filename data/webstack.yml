@@ -250,6 +250,10 @@
           logo: openreview.png
           url: https://openreview.net/forum?id=dQF4SKZs0i
           description: 论文：Spatial Bias in Vision Language Models（OpenReview）
+        - title: IEEE 投稿中心
+          logo: ieee.png
+          url: https://ieee.submission.researchexchange.com/submission/dashboard
+          description: My Submissions - IEEE Author Portal，投稿与审稿进度。
 - taxonomy: 办公
   icon: fas fa-flask fa-lg
   list:
