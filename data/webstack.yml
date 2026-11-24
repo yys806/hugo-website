@@ -511,6 +511,10 @@
           logo: hireme.png
           url: https://interviewasssistant.com/zh
           description: HireMe 面试助手
+        - title: Atlas | World Labs
+          logo: atlas-worldlabs.svg
+          url: https://atlas.worldlabs.ai/
+          description: World Labs 的 3D 世界生成平台
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
